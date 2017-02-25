@@ -1,2 +1,2 @@
 # awesome-hacker-news
-:news: More awesome hacker news!
+:newspaper: More awesome hacker news!
