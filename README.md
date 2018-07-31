@@ -38,6 +38,7 @@
 
 ## Telegram
 
+- [@YHackerNews](https://telegram.me/YHackerNews) 
 - [@hacker_news_feed](https://telegram.me/hacker_news_feed) by [Phil Rukin](https://github.com/phil-r)
 
 ## Twitter
@@ -75,3 +76,7 @@
 - [hnhiring.com](http://hnhiring.com/) by [Jordi Noguera](https://github.com/jordinl)
 - [hnhiring.me](http://hnhiring.me/) by [Micah Wylde](https://github.com/mwylde)
 - [serializer.io](http://www.serializer.io) by [Charlie Egan](https://github.com/charlieegan3)
+
+## iOS
+
+- [Hekla](https://itunes.apple.com/us/app/hekla/id1405096983) by [Birkir Rafn Guðjónsson](https://github.com/birkir)

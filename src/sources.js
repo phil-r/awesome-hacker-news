@@ -155,6 +155,10 @@ module.exports = {
             name: 'Phil Rukin',
             url: 'https://github.com/phil-r'
           }
+        },
+        {
+          name: '@YHackerNews',
+          url: 'https://telegram.me/YHackerNews'
         }
       ]
     },
@@ -263,6 +267,19 @@ module.exports = {
           author: { name: 'Shashank Sharma', url: 'https://gitlab.com/u/shank' }
         }
       ]
-    }
+    },
+    {
+      name: 'iOS',
+      items: [
+        {
+          name: 'Hekla',
+          url: 'https://itunes.apple.com/us/app/hekla/id1405096983',
+          author: {
+            name: 'Birkir Rafn Guðjónsson',
+            url: 'https://github.com/birkir'
+          }
+        }
+      ]
+    },
   ]
 };
