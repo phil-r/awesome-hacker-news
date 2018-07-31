@@ -5,5 +5,8 @@
   "main": "src/sources.js",
   "repository": "https://github.com/phil-r/awesome-hacker-news",
   "author": "Phil Rukin <philipp@rukin.me>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "generate-md": "node src/generate-md.js"
+  }
 }
