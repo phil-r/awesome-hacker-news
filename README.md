@@ -58,7 +58,6 @@
 
 - [HNWatcher](https://www.hnwatcher.com/) 
 - [How Hacker News looked when you joined](http://bemmu.github.io/hncakeday/) by [Bemmu Sepponen](https://github.com/bemmu)
-- [HN Paper](http://hnpaper.forge.partlab.io/) by [Régis Gaidot](https://github.com/rgaidot)
 - [HN Hiring Mapped](http://gaganpreet.github.io/hn-hiring-mapped/src/web/) by [Gaganpreet](https://github.com/gaganpreet)
 - [Hacker News Daily](http://www.daemonology.net/hn-daily) by Colin Percival
 - [Hacker News Rankings](http://hnrankings.info/) by [Marc Neuwirth](https://github.com/marcneuwirth)
