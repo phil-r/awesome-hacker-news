@@ -56,17 +56,17 @@
 
 ## Web
 
-- [HNWatcher](https://www.hnwatcher.com/) 
+- [Full Hacker News](http://www.fullhn.com/) by [Maurice Svay](https://github.com/mauricesvay)
 - [How Hacker News looked when you joined](http://bemmu.github.io/hncakeday/) by [Bemmu Sepponen](https://github.com/bemmu)
 - [HN Hiring Mapped](http://gaganpreet.github.io/hn-hiring-mapped/src/web/) by [Gaganpreet](https://github.com/gaganpreet)
+- [HN Filter](http://hn-filter.appspot.com/) 
 - [Hacker News Daily](http://www.daemonology.net/hn-daily) by Colin Percival
 - [Hacker News Rankings](http://hnrankings.info/) by [Marc Neuwirth](https://github.com/marcneuwirth)
 - [Hacker News Confidence](http://hn.elijames.org/) by [Eli James](https://github.com/ejamesc)
-- [HN Filter](http://hn-filter.appspot.com/) 
-- [Full Hacker News](http://www.fullhn.com/) by [Maurice Svay](https://github.com/mauricesvay)
-- [React HN](http://insin.github.io/react-hn/) by [Jonny Buchanan](https://github.com/insin)
-- [Official Website](https://news.ycombinator.com) 
+- [HNWatcher](https://www.hnwatcher.com/) 
 - [TiledHN](http://www.tiledhn.com/) by [Prakhar Bhandari](https://github.com/pbjr23)
+- [Official Website](https://news.ycombinator.com) 
+- [React HN](http://insin.github.io/react-hn/) by [Jonny Buchanan](https://github.com/insin)
 - [Wayback HN](http://www.waybackhn.com/) by [Jonathan Dubin](https://github.com/jondubin)
 - [hack.ernews.info](http://hack.ernews.info) by [Antonis Karamitros](https://github.com/AntouanK)
 - [hackerbra.in](http://hackerbra.in) by Adrian Wajsbrem

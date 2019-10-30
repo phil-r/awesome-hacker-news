@@ -79,11 +79,6 @@ module.exports = {
           author: { name: 'Jonny Buchanan', url: 'https://github.com/insin' }
         },
         {
-          name: 'HN Paper',
-          url: 'http://hnpaper.forge.partlab.io/',
-          author: { name: 'Régis Gaidot', url: 'https://github.com/rgaidot' }
-        },
-        {
           name: 'hn-reader',
           url: 'http://chancancode.github.io/hn-reader',
           author: {
