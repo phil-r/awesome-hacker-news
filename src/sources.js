@@ -252,7 +252,7 @@ module.exports = {
           name: 'pyhn',
           url: 'https://github.com/toxinu/pyhn',
           author: {
-            name: 'Geoffrey Lehée',
+            name: 'toxinu',
             url: 'https://github.com/toxinu'
           }
         },

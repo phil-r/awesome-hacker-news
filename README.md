@@ -8,7 +8,7 @@
 
 - [go-hn](https://gitlab.com/shank/go-hn) by [Shashank Sharma](https://gitlab.com/u/shank)
 - [haxor-news](https://github.com/donnemartin/haxor-news) by [Donne Martin](https://github.com/donnemartin)
-- [pyhn](https://github.com/toxinu/pyhn) by [Geoffrey Lehée](https://github.com/toxinu)
+- [pyhn](https://github.com/toxinu/pyhn) by [toxinu](https://github.com/toxinu)
 
 ## Desktop
 
