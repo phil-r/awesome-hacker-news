@@ -40,6 +40,10 @@
 
 - [@YHackerNews](https://telegram.me/YHackerNews) 
 - [@hacker_news_feed](https://telegram.me/hacker_news_feed) by [Phil Rukin](https://github.com/phil-r)
+- [@yahnc](https://t.me/yahnc) by [Yuchen Ying](https://github.com/yegle)
+- [@hackernewslive](https://t.me/hackernewslive)
+- [@best_hacker_news](https://t.me/best_hacker_news) by [Shubham Chaudhary](https://github.com/ylogx)
+- [@hn_custom_feed_bot](https://t.me/hn_custom_feed_bot) by [Mevaser](https://github.com/Mevaser)
 
 ## Twitter
 
