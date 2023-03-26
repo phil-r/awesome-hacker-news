@@ -1,5 +1,7 @@
 
 # awesome-hacker-news
+[![NPM version](https://img.shields.io/npm/v/awesome-hacker-news.svg)](https://www.npmjs.com/package/awesome-hacker-news)
+
 :newspaper: More awesome hacker news!
 
 ---
