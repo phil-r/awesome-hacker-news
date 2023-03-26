@@ -1,6 +1,6 @@
 {
   "name": "awesome-hacker-news",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "More awesome hacker news!",
   "main": "src/sources.js",
   "repository": "https://github.com/phil-r/awesome-hacker-news",
