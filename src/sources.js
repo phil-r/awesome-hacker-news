@@ -145,7 +145,7 @@ module.exports = {
       items: [
         {
           name: '@hacker_news_feed',
-          url: 'https://telegram.me/hacker_news_feed',
+          url: 'https://t.me/hacker_news_feed',
           author: {
             name: 'Phil Rukin',
             url: 'https://github.com/phil-r'
@@ -153,8 +153,36 @@ module.exports = {
         },
         {
           name: '@YHackerNews',
-          url: 'https://telegram.me/YHackerNews'
-        }
+          url: 'https://t.me/YHackerNews'
+        },
+        {
+          name: '@yahnc',
+          url: 'https://t.me/yahnc',
+          author: {
+            name: 'Yuchen Ying',
+            url: 'https://github.com/yegle'
+          }
+        },
+        {
+          name: '@hackernewslive',
+          url: 'https://t.me/hackernewslive',
+        },
+        {
+          name: '@best_hacker_news',
+          url: 'https://t.me/best_hacker_news',
+          author: {
+            name: 'Shubham Chaudhary',
+            url: 'https://github.com/ylogx'
+          }
+        },
+        {
+          name: '@hn_custom_feed_bot',
+          url: 'https://t.me/hn_custom_feed_bot',
+          author: {
+            name: 'Mevaser',
+            url: 'https://github.com/Mevaser'
+          }
+        },
       ]
     },
     {

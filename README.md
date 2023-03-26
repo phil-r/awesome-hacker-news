@@ -42,8 +42,12 @@
 
 ## Telegram
 
-- [@hacker_news_feed](https://telegram.me/hacker_news_feed) by [Phil Rukin](https://github.com/phil-r)
-- [@YHackerNews](https://telegram.me/YHackerNews) 
+- [@best_hacker_news](https://t.me/best_hacker_news) by [Shubham Chaudhary](https://github.com/ylogx)
+- [@hacker_news_feed](https://t.me/hacker_news_feed) by [Phil Rukin](https://github.com/phil-r)
+- [@hackernewslive](https://t.me/hackernewslive) 
+- [@hn_custom_feed_bot](https://t.me/hn_custom_feed_bot) by [Mevaser](https://github.com/Mevaser)
+- [@yahnc](https://t.me/yahnc) by [Yuchen Ying](https://github.com/yegle)
+- [@YHackerNews](https://t.me/YHackerNews) 
 
 ## Twitter
 
