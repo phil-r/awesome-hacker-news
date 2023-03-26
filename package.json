@@ -7,6 +7,7 @@
   "author": "Phil Rukin <philipp@rukin.me>",
   "license": "MIT",
   "scripts": {
-    "generate-md": "node src/generate-md.js"
+    "generate-md": "node src/generate-md.js",
+    "test": "echo 'no test needed' && exit 0"
   }
 }
