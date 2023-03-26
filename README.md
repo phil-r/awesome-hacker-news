@@ -22,6 +22,7 @@
 
 ## Mobile App
 
+- [Hacki](https://github.com/Livinglist/Hacki) by [Jiaqi Feng](https://github.com/Livinglist)
 - [Hekla](https://github.com/birkir/hekla) by [Birkir Rafn Guðjónsson](https://github.com/birkir)
 
 ## Mobile Web
