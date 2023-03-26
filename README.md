@@ -16,24 +16,19 @@
 
 ## Email
 
-- [hackernewsletter.com](http://www.hackernewsletter.com) by [Kale Davis](https://github.com/kale)
-- [hackersdaily.com](http://www.hackersdaily.com) by Mike Singer
 - [HN Replies](http://www.hnreplies.com) by [Dan Grossman](https://github.com/dangrossman)
 - [hndigest](http://hndigest.wordpress.com) by Julian Corlet
 - [hndigest.com](http://www.hndigest.com) 
-- [hnnotify.com](http://hnnotify.com) by The Buzz Media
 
-## iOS
+## Mobile App
 
-- [Hekla](https://itunes.apple.com/us/app/hekla/id1405096983) by [Birkir Rafn Guðjónsson](https://github.com/birkir)
+- [Hekla](https://github.com/birkir/hekla) by [Birkir Rafn Guðjónsson](https://github.com/birkir)
 
 ## Mobile Web
 
-- [Ainomma](http://ainomma.azurewebsites.net/) by [Adam Cooper](https://github.com/adam7)
-- [hackernews.im](http://www.hackernews.im/) by [Poly Miao](https://github.com/polyrabbit/)
+- [hacker-news-digest](http://hackernews.betacat.io/) by [Poly Miao](https://github.com/polyrabbit/)
 - [HackerWeb](http://hackerwebapp.com/) by [Lim Chee Aun](https://github.com/cheeaun)
 - [hn.premii.com](http://hn.premii.com/) by [Dharmesh Patel](https://github.com/premii)
-- [ihackernews.com](http://ihackernews.com/) by Ronnie Roller
 
 ## RSS
 
@@ -51,15 +46,8 @@
 
 ## Twitter
 
-- [@hackernewsbot](https://twitter.com/hackernewsbot) 
-- [@HackerNewsYCBot](https://twitter.com/HackerNewsYCBot) 
-- [@JustShowHN](https://twitter.com/JustShowHN) 
-- [@newsyc100](https://twitter.com/newsyc100) 
-- [@newsyc150](https://twitter.com/newsyc150) 
-- [@newsyc20](https://twitter.com/newsyc20) 
 - [@newsyc200](https://twitter.com/newsyc200) 
 - [@newsyc250](https://twitter.com/newsyc250) 
-- [@newsyc50](https://twitter.com/newsyc50) 
 - [@newsycombinator](https://twitter.com/newsycombinator) 
 
 ## Web
@@ -69,9 +57,7 @@
 - [Hacker News Confidence](http://hn.elijames.org/) by [Eli James](https://github.com/ejamesc)
 - [Hacker News Daily](http://www.daemonology.net/hn-daily) by Colin Percival
 - [Hacker News Rankings](http://hnrankings.info/) by [Marc Neuwirth](https://github.com/marcneuwirth)
-- [hackerbra.in](http://hackerbra.in) by Adrian Wajsbrem
 - [hckrnews.com](http://hckrnews.com) by [Wayne Larsen](https://github.com/wvl)
-- [HN Filter](http://hn-filter.appspot.com/) 
 - [HN Hiring Mapped](http://gaganpreet.github.io/hn-hiring-mapped/src/web/) by [Gaganpreet](https://github.com/gaganpreet)
 - [hn-reader](http://chancancode.github.io/hn-reader) by [Godfrey Chan](https://github.com/chancancode)
 - [hnhiring.com](http://hnhiring.com/) by [Jordi Noguera](https://github.com/jordinl)

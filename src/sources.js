@@ -21,11 +21,6 @@ module.exports = {
           author: { name: 'Wayne Larsen', url: 'https://github.com/wvl' }
         },
         {
-          name: 'hackerbra.in',
-          url: 'http://hackerbra.in',
-          author: { name: 'Adrian Wajsbrem' }
-        },
-        {
           name: 'Hacker News Daily',
           url: 'http://www.daemonology.net/hn-daily',
           author: { name: 'Colin Percival' }
@@ -62,7 +57,6 @@ module.exports = {
           }
         },
         { name: 'HNWatcher', url: 'https://www.hnwatcher.com/' },
-        { name: 'HN Filter', url: 'http://hn-filter.appspot.com/' },
         {
           name: 'HN Hiring Mapped',
           url: 'http://gaganpreet.github.io/hn-hiring-mapped/src/web/',
@@ -110,11 +104,6 @@ module.exports = {
       name: 'Mobile Web',
       items: [
         {
-          name: 'ihackernews.com',
-          url: 'http://ihackernews.com/',
-          author: { name: 'Ronnie Roller' }
-        },
-        {
           name: 'hn.premii.com',
           url: 'http://hn.premii.com/',
           author: { name: 'Dharmesh Patel', url: 'https://github.com/premii' }
@@ -125,19 +114,15 @@ module.exports = {
           author: { name: 'Lim Chee Aun', url: 'https://github.com/cheeaun' }
         },
         {
-          name: 'hackernews.im',
-          url: 'http://www.hackernews.im/',
+          name: 'hacker-news-digest',
+          url: 'http://hackernews.betacat.io/',
           author: { name: 'Poly Miao', url: 'https://github.com/polyrabbit/' },
           source: {
             type: 'github',
             url: 'https://github.com/polyrabbit/hacker-news-digest'
           }
         },
-        {
-          name: 'Ainomma',
-          url: 'http://ainomma.azurewebsites.net/',
-          author: { name: 'Adam Cooper', url: 'https://github.com/adam7' }
-        }
+
       ]
     },
     {
@@ -192,15 +177,8 @@ module.exports = {
           name: '@newsycombinator',
           url: 'https://twitter.com/newsycombinator'
         },
-        { name: '@hackernewsbot', url: 'https://twitter.com/hackernewsbot' },
-        { name: '@newsyc20', url: 'https://twitter.com/newsyc20' },
-        { name: '@newsyc50', url: 'https://twitter.com/newsyc50' },
-        { name: '@newsyc100', url: 'https://twitter.com/newsyc100' },
-        { name: '@newsyc150', url: 'https://twitter.com/newsyc150' },
         { name: '@newsyc200', url: 'https://twitter.com/newsyc200' },
         { name: '@newsyc250', url: 'https://twitter.com/newsyc250' },
-        { name: '@JustShowHN', url: 'https://twitter.com/JustShowHN' },
-        { name: '@HackerNewsYCBot', url: 'https://twitter.com/HackerNewsYCBot' }
       ]
     },
     {
@@ -222,26 +200,11 @@ module.exports = {
       name: 'Email',
       items: [
         {
-          name: 'hackernewsletter.com',
-          url: 'http://www.hackernewsletter.com',
-          author: { name: 'Kale Davis', url: 'https://github.com/kale' }
-        },
-        {
-          name: 'hnnotify.com',
-          url: 'http://hnnotify.com',
-          author: { name: 'The Buzz Media' }
-        },
-        {
           name: 'hndigest',
           url: 'http://hndigest.wordpress.com',
           author: { name: 'Julian Corlet' }
         },
         { name: 'hndigest.com', url: 'http://www.hndigest.com' },
-        {
-          name: 'hackersdaily.com',
-          url: 'http://www.hackersdaily.com',
-          author: { name: 'Mike Singer' }
-        },
         {
           name: 'HN Replies',
           url: 'http://www.hnreplies.com',
@@ -292,11 +255,11 @@ module.exports = {
       ]
     },
     {
-      name: 'iOS',
+      name: 'Mobile App',
       items: [
         {
           name: 'Hekla',
-          url: 'https://itunes.apple.com/us/app/hekla/id1405096983',
+          url: 'https://github.com/birkir/hekla',
           author: {
             name: 'Birkir Rafn Guðjónsson',
             url: 'https://github.com/birkir'
@@ -304,5 +267,57 @@ module.exports = {
         }
       ]
     },
-  ]
+  ],
+  graveyard: [
+    {
+      name: 'Email',
+      items: [
+        {
+          name: 'hackernewsletter.com',
+          url: 'http://www.hackernewsletter.com',
+          author: { name: 'Kale Davis', url: 'https://github.com/kale' }
+        }, {
+          name: 'hackersdaily.com',
+          url: 'http://www.hackersdaily.com',
+          author: { name: 'Mike Singer' }
+        }, {
+          name: 'hnnotify.com',
+          url: 'http://hnnotify.com',
+          author: { name: 'The Buzz Media' }
+        },]
+    },
+    {
+      name: 'Mobile Web',
+      items: [{
+        name: 'Ainomma',
+        url: 'http://ainomma.azurewebsites.net/',
+        author: { name: 'Adam Cooper', url: 'https://github.com/adam7' }
+      }, {
+        name: 'ihackernews.com',
+        url: 'http://ihackernews.com/',
+        author: { name: 'Ronnie Roller' }
+      },]
+    }, {
+      name: 'Twitter',
+      items: [
+        { name: '@JustShowHN', url: 'https://twitter.com/JustShowHN', reason: 'suspended' },
+        { name: '@newsyc20', url: 'https://twitter.com/newsyc20', reason: 'suspended' },
+        { name: '@newsyc50', url: 'https://twitter.com/newsyc50', reason: 'suspended' },
+        { name: '@newsyc100', url: 'https://twitter.com/newsyc100', reason: 'no posts since Sep 25, 2022' },
+        { name: '@newsyc150', url: 'https://twitter.com/newsyc150', reason: 'no posts since Sep 25, 2022' },
+        { name: '@HackerNewsYCBot', url: 'https://twitter.com/HackerNewsYCBot', reason: 'no posts since Oct 25, 2017' },
+        { name: '@hackernewsbot', url: 'https://twitter.com/hackernewsbot', reason: 'no posts since Mar 13, 2021' },
+      ]
+    },
+    {
+      name: 'Web',
+      items: [{
+        name: 'hackerbra.in',
+        url: 'http://hackerbra.in',
+        author: { name: 'Adrian Wajsbrem' },
+        reason: 'domain is lost'
+      }, {
+        name: 'HN Filter', url: 'http://hn-filter.appspot.com/', reason: "doesn't work"
+      },]
+    }]
 };
