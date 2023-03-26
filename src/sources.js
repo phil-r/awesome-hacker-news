@@ -264,7 +264,15 @@ module.exports = {
             name: 'Birkir Rafn Guðjónsson',
             url: 'https://github.com/birkir'
           }
-        }
+        },
+        {
+          name: 'Hacki',
+          url: 'https://github.com/Livinglist/Hacki',
+          author: {
+            name: 'Jiaqi Feng',
+            url: 'https://github.com/Livinglist'
+          }
+        },
       ]
     },
   ],
