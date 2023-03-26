@@ -56,29 +56,15 @@ module.exports = {
             url: 'https://github.com/mauricesvay'
           }
         },
-        { name: 'HNWatcher', url: 'https://www.hnwatcher.com/' },
         {
           name: 'HN Hiring Mapped',
           url: 'http://gaganpreet.github.io/hn-hiring-mapped/src/web/',
           author: { name: 'Gaganpreet', url: 'https://github.com/gaganpreet' }
         },
         {
-          name: 'TiledHN',
-          url: 'http://www.tiledhn.com/',
-          author: { name: 'Prakhar Bhandari', url: 'https://github.com/pbjr23' }
-        },
-        {
           name: 'React HN',
           url: 'http://insin.github.io/react-hn/',
           author: { name: 'Jonny Buchanan', url: 'https://github.com/insin' }
-        },
-        {
-          name: 'hn-reader',
-          url: 'http://chancancode.github.io/hn-reader',
-          author: {
-            name: 'Godfrey Chan',
-            url: 'https://github.com/chancancode'
-          }
         },
         {
           name: 'serializer.io',
@@ -319,13 +305,32 @@ module.exports = {
     },
     {
       name: 'Web',
-      items: [{
-        name: 'hackerbra.in',
-        url: 'http://hackerbra.in',
-        author: { name: 'Adrian Wajsbrem' },
-        reason: 'domain is lost'
-      }, {
-        name: 'HN Filter', url: 'http://hn-filter.appspot.com/', reason: "doesn't work"
-      },]
+      items: [
+        {
+          name: 'hackerbra.in',
+          url: 'http://hackerbra.in',
+          author: { name: 'Adrian Wajsbrem' },
+          reason: 'domain is lost'
+        },
+        {
+          name: 'HN Filter', url: 'http://hn-filter.appspot.com/', reason: "doesn't work"
+        },
+        {
+          name: 'hn-reader',
+          url: 'http://chancancode.github.io/hn-reader',
+          author: {
+            name: 'Godfrey Chan',
+            url: 'https://github.com/chancancode'
+          },
+          reason: 'CORS errors'
+        },
+        { name: 'HNWatcher', url: 'https://www.hnwatcher.com/', reason: 'times out' },
+        {
+          name: 'TiledHN',
+          url: 'http://www.tiledhn.com/',
+          author: { name: 'Prakhar Bhandari', url: 'https://github.com/pbjr23' },
+          reason: 'application error'
+        },
+      ]
     }]
 };
