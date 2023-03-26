@@ -16,18 +16,22 @@
 
 ## Email
 
-- [HN Replies](http://www.hnreplies.com) by [Dan Grossman](https://github.com/dangrossman)
 - [hackernewsletter.com](http://www.hackernewsletter.com) by [Kale Davis](https://github.com/kale)
 - [hackersdaily.com](http://www.hackersdaily.com) by Mike Singer
+- [HN Replies](http://www.hnreplies.com) by [Dan Grossman](https://github.com/dangrossman)
 - [hndigest](http://hndigest.wordpress.com) by Julian Corlet
 - [hndigest.com](http://www.hndigest.com) 
 - [hnnotify.com](http://hnnotify.com) by The Buzz Media
 
+## iOS
+
+- [Hekla](https://itunes.apple.com/us/app/hekla/id1405096983) by [Birkir Rafn Guðjónsson](https://github.com/birkir)
+
 ## Mobile Web
 
 - [Ainomma](http://ainomma.azurewebsites.net/) by [Adam Cooper](https://github.com/adam7)
-- [HackerWeb](http://hackerwebapp.com/) by [Lim Chee Aun](https://github.com/cheeaun)
 - [hackernews.im](http://www.hackernews.im/) by [Poly Miao](https://github.com/polyrabbit/)
+- [HackerWeb](http://hackerwebapp.com/) by [Lim Chee Aun](https://github.com/cheeaun)
 - [hn.premii.com](http://hn.premii.com/) by [Dharmesh Patel](https://github.com/premii)
 - [ihackernews.com](http://ihackernews.com/) by Ronnie Roller
 
@@ -38,14 +42,14 @@
 
 ## Telegram
 
-- [@YHackerNews](https://telegram.me/YHackerNews) 
 - [@hacker_news_feed](https://telegram.me/hacker_news_feed) by [Phil Rukin](https://github.com/phil-r)
+- [@YHackerNews](https://telegram.me/YHackerNews) 
 
 ## Twitter
 
+- [@hackernewsbot](https://twitter.com/hackernewsbot) 
 - [@HackerNewsYCBot](https://twitter.com/HackerNewsYCBot) 
 - [@JustShowHN](https://twitter.com/JustShowHN) 
-- [@hackernewsbot](https://twitter.com/hackernewsbot) 
 - [@newsyc100](https://twitter.com/newsyc100) 
 - [@newsyc150](https://twitter.com/newsyc150) 
 - [@newsyc20](https://twitter.com/newsyc20) 
@@ -57,25 +61,21 @@
 ## Web
 
 - [Full Hacker News](http://www.fullhn.com/) by [Maurice Svay](https://github.com/mauricesvay)
-- [How Hacker News looked when you joined](http://bemmu.github.io/hncakeday/) by [Bemmu Sepponen](https://github.com/bemmu)
-- [HN Hiring Mapped](http://gaganpreet.github.io/hn-hiring-mapped/src/web/) by [Gaganpreet](https://github.com/gaganpreet)
-- [HN Filter](http://hn-filter.appspot.com/) 
+- [hack.ernews.info](http://hack.ernews.info) by [Antonis Karamitros](https://github.com/AntouanK)
+- [Hacker News Confidence](http://hn.elijames.org/) by [Eli James](https://github.com/ejamesc)
 - [Hacker News Daily](http://www.daemonology.net/hn-daily) by Colin Percival
 - [Hacker News Rankings](http://hnrankings.info/) by [Marc Neuwirth](https://github.com/marcneuwirth)
-- [Hacker News Confidence](http://hn.elijames.org/) by [Eli James](https://github.com/ejamesc)
-- [HNWatcher](https://www.hnwatcher.com/) 
-- [TiledHN](http://www.tiledhn.com/) by [Prakhar Bhandari](https://github.com/pbjr23)
-- [Official Website](https://news.ycombinator.com) 
-- [React HN](http://insin.github.io/react-hn/) by [Jonny Buchanan](https://github.com/insin)
-- [Wayback HN](http://www.waybackhn.com/) by [Jonathan Dubin](https://github.com/jondubin)
-- [hack.ernews.info](http://hack.ernews.info) by [Antonis Karamitros](https://github.com/AntouanK)
 - [hackerbra.in](http://hackerbra.in) by Adrian Wajsbrem
 - [hckrnews.com](http://hckrnews.com) by [Wayne Larsen](https://github.com/wvl)
+- [HN Filter](http://hn-filter.appspot.com/) 
+- [HN Hiring Mapped](http://gaganpreet.github.io/hn-hiring-mapped/src/web/) by [Gaganpreet](https://github.com/gaganpreet)
 - [hn-reader](http://chancancode.github.io/hn-reader) by [Godfrey Chan](https://github.com/chancancode)
 - [hnhiring.com](http://hnhiring.com/) by [Jordi Noguera](https://github.com/jordinl)
 - [hnhiring.me](http://hnhiring.me/) by [Micah Wylde](https://github.com/mwylde)
+- [HNWatcher](https://www.hnwatcher.com/) 
+- [How Hacker News looked when you joined](http://bemmu.github.io/hncakeday/) by [Bemmu Sepponen](https://github.com/bemmu)
+- [Official Website](https://news.ycombinator.com) 
+- [React HN](http://insin.github.io/react-hn/) by [Jonny Buchanan](https://github.com/insin)
 - [serializer.io](http://www.serializer.io) by [Charlie Egan](https://github.com/charlieegan3)
-
-## iOS
-
-- [Hekla](https://itunes.apple.com/us/app/hekla/id1405096983) by [Birkir Rafn Guðjónsson](https://github.com/birkir)
+- [TiledHN](http://www.tiledhn.com/) by [Prakhar Bhandari](https://github.com/pbjr23)
+- [Wayback HN](http://www.waybackhn.com/) by [Jonathan Dubin](https://github.com/jondubin)

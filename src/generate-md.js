@@ -14,9 +14,9 @@ const authorString = author => {
   return url ? `by [${name}](${url})` : `by ${name}`;
 };
 
-sources.sort((a, b) => a.name > b.name).forEach(({ name, items }) => {
+sources.sort((a, b) => a.name.localeCompare(b.name)).forEach(({ name, items }) => {
   readme += `\n## ${name}\n\n`;
-  items.sort((a, b) => a.name > b.name).forEach(({ name, url, author }) => {
+  items.sort((a, b) => a.name.localeCompare(b.name)).forEach(({ name, url, author }) => {
     readme += `- [${name}](${url}) ${authorString(author)}\n`;
   });
 });
