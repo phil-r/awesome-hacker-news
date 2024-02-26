@@ -69,3 +69,4 @@
 - [React HN](http://insin.github.io/react-hn/) by [Jonny Buchanan](https://github.com/insin)
 - [serializer.io](http://www.serializer.io) by [Charlie Egan](https://github.com/charlieegan3)
 - [Wayback HN](http://www.waybackhn.com/) by [Jonathan Dubin](https://github.com/jondubin)
+- [FilterHN](https://filterhn.com/) by [Adam Zerner](https://github.com/adamzerner/)
