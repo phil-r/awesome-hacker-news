@@ -147,6 +147,12 @@ module.exports = {
       ]
     },
     {
+      name: '𝕏',
+      items: [
+        { name: '@hackernews', url: 'https://x.com/hackernews' }
+      ]
+    },
+    {
       name: 'RSS',
       items: [
         {
@@ -277,18 +283,18 @@ module.exports = {
         author: { name: 'Ronnie Roller' }
       },]
     }, {
-      name: 'Twitter',
+      name: '𝕏',
       items: [
-        { name: '@newsycombinator', url: 'https://twitter.com/newsycombinator', reason: 'no posts since Jun 23, 2023' },
-        { name: '@newsyc200', url: 'https://twitter.com/newsyc200', reason: 'lost Twitter API access in June 2023' },
-        { name: '@newsyc250', url: 'https://twitter.com/newsyc250', reason: 'lost Twitter API access in June 2023' },
-        { name: '@JustShowHN', url: 'https://twitter.com/JustShowHN', reason: 'suspended' },
-        { name: '@newsyc20', url: 'https://twitter.com/newsyc20', reason: 'suspended' },
-        { name: '@newsyc50', url: 'https://twitter.com/newsyc50', reason: 'suspended' },
-        { name: '@newsyc100', url: 'https://twitter.com/newsyc100', reason: 'no posts since Sep 25, 2022' },
-        { name: '@newsyc150', url: 'https://twitter.com/newsyc150', reason: 'no posts since Sep 25, 2022' },
-        { name: '@HackerNewsYCBot', url: 'https://twitter.com/HackerNewsYCBot', reason: 'no posts since Oct 25, 2017' },
-        { name: '@hackernewsbot', url: 'https://twitter.com/hackernewsbot', reason: 'no posts since Mar 13, 2021' },
+        { name: '@newsycombinator', url: 'https://x.com/newsycombinator', reason: 'no posts since Jun 23, 2023' },
+        { name: '@newsyc200', url: 'https://x.com/newsyc200', reason: 'lost Twitter API access in June 2023' },
+        { name: '@newsyc250', url: 'https://x.com/newsyc250', reason: 'lost Twitter API access in June 2023' },
+        { name: '@JustShowHN', url: 'https://x.com/JustShowHN', reason: 'suspended' },
+        { name: '@newsyc20', url: 'https://x.com/newsyc20', reason: 'suspended' },
+        { name: '@newsyc50', url: 'https://x.com/newsyc50', reason: 'suspended' },
+        { name: '@newsyc100', url: 'https://x.com/newsyc100', reason: 'no posts since Sep 25, 2022' },
+        { name: '@newsyc150', url: 'https://x.com/newsyc150', reason: 'no posts since Sep 25, 2022' },
+        { name: '@HackerNewsYCBot', url: 'https://x.com/HackerNewsYCBot', reason: 'no posts since Oct 25, 2017' },
+        { name: '@hackernewsbot', url: 'https://x.com/hackernewsbot', reason: 'no posts since Mar 13, 2021' },
       ]
     },
     {

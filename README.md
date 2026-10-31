@@ -65,3 +65,7 @@
 - [Official Website](https://news.ycombinator.com)
 - [React HN](http://insin.github.io/react-hn/) by [Jonny Buchanan](https://github.com/insin)
 - [serializer.io](http://www.serializer.io) by [Charlie Egan](https://github.com/charlieegan3)
+
+## 𝕏
+
+- [@hackernews](https://x.com/hackernews)
