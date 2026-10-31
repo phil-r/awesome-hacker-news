@@ -4,6 +4,18 @@ module.exports = {
       name: 'Web',
       items: [
         {
+          name: 'Brutalist Hacker News',
+          url: 'https://brutalisthackernews.com',
+          author: { name: 'W. Kyle Graves', url: 'https://github.com/wkyleg' },
+          source: { type: 'github', url: 'https://github.com/wkyleg/brutalist-hacker-news' }
+        },
+        {
+          name: 'Random Hacker News',
+          url: 'https://randomhackernews.com',
+          author: { name: 'Nick', url: 'https://nickipedia.dev/' },
+          source: { type: 'github', url: 'https://github.com/nickipedia/Random-HackerNews-Front-Page' }
+        },
+        {
           name: 'Hakkernieuws',
           url: 'https://hakkernieuws.vercel.app/top',
           author: { name: 'AntonioEritas', url: 'https://news.ycombinator.com/user?id=AntonioEritas' }
@@ -136,6 +148,30 @@ module.exports = {
       name: 'Utilities',
       items: [
         {
+          name: 'Humble-HN',
+          url: 'https://github.com/alexmolas/humble-hn',
+          author: { name: 'Alex Molas', url: 'https://github.com/alexmolas' },
+          source: { type: 'github', url: 'https://github.com/alexmolas/humble-hn' }
+        },
+        {
+          name: 'HN User Info',
+          url: 'https://github.com/ConsoleScript/hnuser',
+          author: { name: 'ConsoleScript', url: 'https://github.com/ConsoleScript' },
+          source: { type: 'github', url: 'https://github.com/ConsoleScript/hnuser' }
+        },
+        {
+          name: 'Hacker News Highlighter',
+          url: 'https://github.com/bachmitre/hacker-news-highlighter',
+          author: { name: 'bachmitre', url: 'https://github.com/bachmitre' },
+          source: { type: 'github', url: 'https://github.com/bachmitre/hacker-news-highlighter' }
+        },
+        {
+          name: 'Kindle Digest',
+          url: 'https://github.com/dnldsht/kindle-digest',
+          author: { name: 'Donald Shtjefni', url: 'https://github.com/dnldsht' },
+          source: { type: 'github', url: 'https://github.com/dnldsht/kindle-digest' }
+        },
+        {
           name: 'HNRelevant',
           url: 'https://github.com/imdj/HNRelevant',
           author: { name: 'Imad Aldij', url: 'https://github.com/imdj' },
@@ -228,6 +264,16 @@ module.exports = {
       ]
     },
     {
+      name: 'Bluesky',
+      items: [
+        {
+          name: 'Bluesky Hacker News Bot',
+          url: 'https://bsky.app/profile/hackernewsbot.bsky.social',
+          author: { name: 'Yurii', url: 'https://bsky.app/profile/ykravchuk.bsky.social' }
+        }
+      ]
+    },
+    {
       name: '𝕏',
       items: [
         { name: '@hackernews', url: 'https://x.com/hackernews' }
@@ -306,6 +352,12 @@ module.exports = {
     {
       name: 'Command Line',
       items: [
+        {
+          name: 'Retronews',
+          url: 'https://github.com/luke8086/retronews',
+          author: { name: 'Luke S.', url: 'https://github.com/luke8086' },
+          source: { type: 'github', url: 'https://github.com/luke8086/retronews' }
+        },
         {
           name: 'hnterminal',
           url: 'https://github.com/Aperocky/hnterminal',
@@ -418,6 +470,11 @@ module.exports = {
     {
       name: 'Mobile Web',
       items: [{
+        name: 'Minimal mobile HN reader',
+        url: 'https://hn.brae.workers.dev/',
+        author: { name: 'weekendproject', url: 'https://news.ycombinator.com/user?id=weekendproject' },
+        reason: 'website returned HTTP 404'
+      }, {
         name: 'Ainomma',
         url: 'http://ainomma.azurewebsites.net/',
         author: { name: 'Adam Cooper', url: 'https://github.com/adam7' }
@@ -442,8 +499,133 @@ module.exports = {
       ]
     },
     {
+      name: 'Telegram',
+      items: [
+        {
+          name: 'Hacker News Telegram Bot',
+          url: 'https://hackernews.bot/telegram/',
+          author: { name: 'jayantsinghxyz', url: 'https://news.ycombinator.com/user?id=jayantsinghxyz' },
+          reason: 'project website DNS failure; bot status unverified'
+        }
+      ]
+    },
+    {
+      name: 'Audio',
+      items: [
+        {
+          name: 'HN Update',
+          url: 'https://hnup.date/',
+          author: { name: 'yunusabd', url: 'https://news.ycombinator.com/user?id=yunusabd' },
+          reason: 'hourly feed last updated October 10, 2026 (checked October 31, 2026)'
+        }
+      ]
+    },
+    {
       name: 'Web',
       items: [
+        {
+          name: 'HomeBrew HN',
+          url: 'https://www.hackernews.coffee/',
+          author: { name: 'azath92', url: 'https://news.ycombinator.com/user?id=azath92' },
+          reason: 'service retirement notice'
+        },
+        {
+          name: 'HNping',
+          url: 'https://hnping.com/',
+          author: { name: 'Galorious', url: 'https://news.ycombinator.com/user?id=Galorious' },
+          reason: 'DNS failure'
+        },
+        {
+          name: 'Shaped personalized HN feed',
+          url: 'https://hn.shaped.ai/',
+          author: { name: 'tullie', url: 'https://news.ycombinator.com/user?id=tullie' },
+          reason: 'DNS failure'
+        },
+        {
+          name: 'WingNews',
+          url: 'https://news.wingman.actor/',
+          author: { name: 'ChaseRensberger', url: 'https://news.ycombinator.com/user?id=ChaseRensberger' },
+          reason: 'DNS failure'
+        },
+        {
+          name: 'FilterHN',
+          url: 'https://filterhn.com/',
+          author: { name: 'gearsyfounder', url: 'https://news.ycombinator.com/user?id=gearsyfounder' },
+          reason: 'HTTP and HTTPS connections reset; shutdown unconfirmed'
+        },
+        {
+          name: 'Cylinder HN',
+          url: 'https://cylinder.doforce.xyz/',
+          author: { name: 'lemonwandering', url: 'https://news.ycombinator.com/user?id=lemonwandering' },
+          reason: 'website returned HTTP 436; shutdown unconfirmed'
+        },
+        {
+          name: 'HN Discovery',
+          url: 'https://hn.trieve.ai/',
+          author: { name: 'skeptrune and team', url: 'https://news.ycombinator.com/user?id=skeptrune' },
+          source: { type: 'github', url: 'https://github.com/devflowinc/trieve-hn-discovery' },
+          reason: 'website timed out; shutdown unconfirmed'
+        },
+        {
+          name: 'Hacker Search',
+          url: 'https://hackersearch.net/',
+          author: { name: 'Jonathan Unikowski', url: 'https://news.ycombinator.com/user?id=jnnnthnn' },
+          reason: 'service retirement notice'
+        },
+        {
+          name: 'Your Hacker News',
+          url: 'https://yourhackernews.com/',
+          author: { name: 'nimbusega', url: 'https://news.ycombinator.com/user?id=nimbusega' },
+          reason: 'website returned HTTP 404'
+        },
+        {
+          name: 'Hacker News Explorer',
+          url: 'https://hackernewsexplorer.com/',
+          author: { name: 'mahin', url: 'https://news.ycombinator.com/user?id=mahin' },
+          reason: 'project website DNS failure'
+        },
+        {
+          name: 'Hacker News Outliers',
+          url: 'https://hn.moritz.pm/',
+          author: { name: '7moritz7', url: 'https://news.ycombinator.com/user?id=7moritz7' },
+          reason: 'DNS failure'
+        },
+        {
+          name: 'Hacker News Git Blame',
+          url: 'https://www.hngitblame.com/',
+          author: { name: 'MovingTheLimit', url: 'https://news.ycombinator.com/user?id=MovingTheLimit' },
+          reason: 'DNS failure'
+        },
+        {
+          name: 'Hacker Live',
+          url: 'https://hackerlive.net/',
+          author: { name: 'abersager', url: 'https://news.ycombinator.com/user?id=abersager' },
+          reason: 'DNS failure'
+        },
+        {
+          name: 'hacc.foo',
+          url: 'https://hacc.foo/',
+          author: { name: 'xqzkio', url: 'https://news.ycombinator.com/user?id=xqzkio' },
+          reason: 'DNS failure'
+        },
+        {
+          name: 'Hacker News Book Recommendations',
+          url: 'https://hackernewsbookrecommendations.com/',
+          author: { name: 'mjcurl', url: 'https://news.ycombinator.com/user?id=mjcurl' },
+          reason: 'DNS failure'
+        },
+        {
+          name: 'Search Hacker News',
+          url: 'https://www.searchhacker.news/',
+          author: { name: 'isoprophlex', url: 'https://news.ycombinator.com/user?id=isoprophlex' },
+          reason: 'DNS failure'
+        },
+        {
+          name: 'hnto.pics',
+          url: 'https://hnto.pics/',
+          author: { name: 'WhatsName', url: 'https://news.ycombinator.com/user?id=WhatsName' },
+          reason: 'DNS failure'
+        },
         {
           name: 'Hacker News Confidence',
           url: 'http://hn.elijames.org/',

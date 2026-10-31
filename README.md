@@ -6,6 +6,10 @@
 
 ---
 
+## Bluesky
+
+- [Bluesky Hacker News Bot](https://bsky.app/profile/hackernewsbot.bsky.social) by [Yurii](https://bsky.app/profile/ykravchuk.bsky.social)
+
 ## Command Line
 
 - [go-hn](https://gitlab.com/shank/go-hn) by [Shashank Sharma](https://gitlab.com/u/shank)
@@ -14,6 +18,7 @@
 - [hnterminal](https://github.com/Aperocky/hnterminal) by [Rocky Li](https://github.com/Aperocky)
 - [hntui](https://github.com/ahmd-sh/hntui) by [Ahmed Shaikh](https://github.com/ahmd-sh)
 - [pyhn](https://github.com/toxinu/pyhn) by [toxinu](https://github.com/toxinu)
+- [Retronews](https://github.com/luke8086/retronews) by [Luke S.](https://github.com/luke8086)
 
 ## Desktop
 
@@ -72,11 +77,16 @@
 
 ## Utilities
 
+- [Hacker News Highlighter](https://github.com/bachmitre/hacker-news-highlighter) by [bachmitre](https://github.com/bachmitre)
+- [HN User Info](https://github.com/ConsoleScript/hnuser) by [ConsoleScript](https://github.com/ConsoleScript)
 - [HNRelevant](https://github.com/imdj/HNRelevant) by [Imad Aldij](https://github.com/imdj)
 - [HNswered](https://github.com/adam-s/HNswered) by [adam-s](https://github.com/adam-s)
+- [Humble-HN](https://github.com/alexmolas/humble-hn) by [Alex Molas](https://github.com/alexmolas)
+- [Kindle Digest](https://github.com/dnldsht/kindle-digest) by [Donald Shtjefni](https://github.com/dnldsht)
 
 ## Web
 
+- [Brutalist Hacker News](https://brutalisthackernews.com) by [W. Kyle Graves](https://github.com/wkyleg)
 - [Full Hacker News](http://www.fullhn.com/) by [Maurice Svay](https://github.com/mauricesvay)
 - [Hacker News Daily](http://www.daemonology.net/hn-daily) by Colin Percival
 - [Hacker News Rankings](http://hnrankings.info/) by [Marc Neuwirth](https://github.com/marcneuwirth)
@@ -92,6 +102,7 @@
 - [hnhiring.me](http://hnhiring.me/) by [Micah Wylde](https://github.com/mwylde)
 - [How Hacker News looked when you joined](http://bemmu.github.io/hncakeday/) by [Bemmu Sepponen](https://github.com/bemmu)
 - [Official Website](https://news.ycombinator.com)
+- [Random Hacker News](https://randomhackernews.com) by [Nick](https://nickipedia.dev/)
 - [React HN](http://insin.github.io/react-hn/) by [Jonny Buchanan](https://github.com/insin)
 - [serializer.io](http://www.serializer.io) by [Charlie Egan](https://github.com/charlieegan3)
 - [The Front Page](https://thefrontpage.dev/) by [George Stagas](https://github.com/stagas)
