@@ -4,6 +4,22 @@ module.exports = {
       name: 'Web',
       items: [
         {
+          name: 'Hakkernieuws',
+          url: 'https://hakkernieuws.vercel.app/top',
+          author: { name: 'AntonioEritas', url: 'https://news.ycombinator.com/user?id=AntonioEritas' }
+        },
+        {
+          name: 'HN-YT',
+          url: 'https://hn-yt.netlify.app/',
+          author: { name: 'Sahil', url: 'https://sahil.world/' }
+        },
+        {
+          name: 'HN Watercooler',
+          url: 'https://onetake-ai.github.io/hackernews-watercooler/',
+          author: { name: 'Sébastien Night', url: 'https://news.ycombinator.com/user?id=sebastiennight' },
+          source: { type: 'github', url: 'https://github.com/onetake-ai/hackernews-watercooler' }
+        },
+        {
           name: 'hcker.news',
           url: 'https://hcker.news/',
           author: { name: 'postalcoder', url: 'https://news.ycombinator.com/user?id=postalcoder' }
@@ -92,6 +108,12 @@ module.exports = {
       name: 'Discovery and Analysis',
       items: [
         {
+          name: 'HN Overlooked',
+          url: 'https://pj4533.com/hn-overlooked/',
+          author: { name: 'PJ Gray', url: 'https://github.com/pj4533' },
+          source: { type: 'github', url: 'https://github.com/pj4533/hn-overlooked' }
+        },
+        {
           name: 'HN Hall of Fame',
           url: 'https://www.orangecrumbs.com/hall/',
           author: { name: 'oyster143', url: 'https://news.ycombinator.com/user?id=oyster143' }
@@ -113,6 +135,12 @@ module.exports = {
     {
       name: 'Utilities',
       items: [
+        {
+          name: 'HNRelevant',
+          url: 'https://github.com/imdj/HNRelevant',
+          author: { name: 'Imad Aldij', url: 'https://github.com/imdj' },
+          source: { type: 'github', url: 'https://github.com/imdj/HNRelevant' }
+        },
         {
           name: 'HNswered',
           url: 'https://github.com/adam-s/HNswered',
@@ -249,6 +277,17 @@ module.exports = {
       name: 'Desktop',
       items: [
         {
+          name: 'HN Reader',
+          url: 'https://github.com/haojiang99/hacker_news_reader',
+          author: { name: 'coolwulf', url: 'https://news.ycombinator.com/user?id=coolwulf' },
+          source: { type: 'github', url: 'https://github.com/haojiang99/hacker_news_reader' }
+        },
+        {
+          name: '120 HN',
+          url: 'https://120.dev/hn',
+          author: { name: '120.dev', url: 'https://news.ycombinator.com/user?id=120-dev' }
+        },
+        {
           name: 'Hacker News for macOS',
           url: 'https://github.com/IronsideXXVI/Hacker-News',
           author: { name: 'Dylan Ironside', url: 'https://github.com/IronsideXXVI' },
@@ -267,6 +306,18 @@ module.exports = {
     {
       name: 'Command Line',
       items: [
+        {
+          name: 'hnterminal',
+          url: 'https://github.com/Aperocky/hnterminal',
+          author: { name: 'Rocky Li', url: 'https://github.com/Aperocky' },
+          source: { type: 'github', url: 'https://github.com/Aperocky/hnterminal' }
+        },
+        {
+          name: 'hn-term',
+          url: 'https://github.com/aotakeda/hn-term',
+          author: { name: 'Arthur Takeda', url: 'https://github.com/aotakeda' },
+          source: { type: 'github', url: 'https://github.com/aotakeda/hn-term' }
+        },
         {
           name: 'hntui',
           url: 'https://github.com/ahmd-sh/hntui',
@@ -299,6 +350,23 @@ module.exports = {
     {
       name: 'Mobile App',
       items: [
+        {
+          name: 'Hacko (formerly HackerNewt)',
+          url: 'https://apps.apple.com/us/app/hacko-for-hacker-news/id6448201970',
+          author: { name: 'Andrii Sievrikov', url: 'https://github.com/devandsev' }
+        },
+        {
+          name: 'HackerNewsWatch',
+          url: 'https://github.com/wieslawsoltes/HackerNewsWatch',
+          author: { name: 'Wiesław Šoltés', url: 'https://github.com/wieslawsoltes' },
+          source: { type: 'github', url: 'https://github.com/wieslawsoltes/HackerNewsWatch' }
+        },
+        {
+          name: 'Hacker News by Emerge',
+          url: 'https://github.com/EmergeTools/hackernews',
+          author: { name: 'Emerge Tools team', url: 'https://github.com/EmergeTools' },
+          source: { type: 'github', url: 'https://github.com/EmergeTools/hackernews' }
+        },
         {
           name: 'HackerFlow',
           url: 'https://hackerflow.app/',
