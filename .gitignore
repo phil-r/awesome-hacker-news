@@ -1,0 +1,7 @@
+node_modules/
+.pi/
+.env
+.env.*
+!.env.example
+npm-debug.log*
+*.tgz
