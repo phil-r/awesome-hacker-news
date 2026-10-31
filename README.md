@@ -20,7 +20,11 @@
 
 - [HN Replies](http://www.hnreplies.com) by [Dan Grossman](https://github.com/dangrossman)
 - [hndigest](http://hndigest.wordpress.com) by Julian Corlet
-- [hndigest.com](http://www.hndigest.com) 
+- [hndigest.com](http://www.hndigest.com)
+
+## Gopher
+
+- [HN Gopher](gopher://hngopher.com/1)
 
 ## Mobile App
 
@@ -42,22 +46,15 @@
 
 - [@best_hacker_news](https://t.me/best_hacker_news) by [Shubham Chaudhary](https://github.com/ylogx)
 - [@hacker_news_feed](https://t.me/hacker_news_feed) by [Phil Rukin](https://github.com/phil-r)
-- [@hackernewslive](https://t.me/hackernewslive) 
+- [@hackernewslive](https://t.me/hackernewslive)
+- [@hn_best_comments](https://t.me/hn_best_comments)
 - [@hn_custom_feed_bot](https://t.me/hn_custom_feed_bot) by [Mevaser](https://github.com/Mevaser)
 - [@yahnc](https://t.me/yahnc) by [Yuchen Ying](https://github.com/yegle)
-- [@YHackerNews](https://t.me/YHackerNews) 
-
-## Twitter
-
-- [@newsyc200](https://twitter.com/newsyc200) 
-- [@newsyc250](https://twitter.com/newsyc250) 
-- [@newsycombinator](https://twitter.com/newsycombinator) 
+- [@YHackerNews](https://t.me/YHackerNews)
 
 ## Web
 
 - [Full Hacker News](http://www.fullhn.com/) by [Maurice Svay](https://github.com/mauricesvay)
-- [hack.ernews.info](http://hack.ernews.info) by [Antonis Karamitros](https://github.com/AntouanK)
-- [Hacker News Confidence](http://hn.elijames.org/) by [Eli James](https://github.com/ejamesc)
 - [Hacker News Daily](http://www.daemonology.net/hn-daily) by Colin Percival
 - [Hacker News Rankings](http://hnrankings.info/) by [Marc Neuwirth](https://github.com/marcneuwirth)
 - [hckrnews.com](http://hckrnews.com) by [Wayne Larsen](https://github.com/wvl)
@@ -65,7 +62,6 @@
 - [hnhiring.com](http://hnhiring.com/) by [Jordi Noguera](https://github.com/jordinl)
 - [hnhiring.me](http://hnhiring.me/) by [Micah Wylde](https://github.com/mwylde)
 - [How Hacker News looked when you joined](http://bemmu.github.io/hncakeday/) by [Bemmu Sepponen](https://github.com/bemmu)
-- [Official Website](https://news.ycombinator.com) 
+- [Official Website](https://news.ycombinator.com)
 - [React HN](http://insin.github.io/react-hn/) by [Jonny Buchanan](https://github.com/insin)
 - [serializer.io](http://www.serializer.io) by [Charlie Egan](https://github.com/charlieegan3)
-- [Wayback HN](http://www.waybackhn.com/) by [Jonathan Dubin](https://github.com/jondubin)

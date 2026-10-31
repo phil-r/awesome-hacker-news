@@ -8,14 +8,6 @@ module.exports = {
           url: 'https://news.ycombinator.com'
         },
         {
-          name: 'hack.ernews.info',
-          url: 'http://hack.ernews.info',
-          author: {
-            name: 'Antonis Karamitros',
-            url: 'https://github.com/AntouanK'
-          }
-        },
-        {
           name: 'hckrnews.com',
           url: 'http://hckrnews.com',
           author: { name: 'Wayne Larsen', url: 'https://github.com/wvl' }
@@ -32,11 +24,6 @@ module.exports = {
             name: 'Marc Neuwirth',
             url: 'https://github.com/marcneuwirth'
           }
-        },
-        {
-          name: 'Hacker News Confidence',
-          url: 'http://hn.elijames.org/',
-          author: { name: 'Eli James', url: 'https://github.com/ejamesc' }
         },
         {
           name: 'hnhiring.com',
@@ -75,11 +62,6 @@ module.exports = {
           }
         },
         {
-          name: 'Wayback HN',
-          url: 'http://www.waybackhn.com/',
-          author: { name: 'Jonathan Dubin', url: 'https://github.com/jondubin' }
-        },
-        {
           name: 'How Hacker News looked when you joined',
           url: 'http://bemmu.github.io/hncakeday/',
           author: { name: 'Bemmu Sepponen', url: 'https://github.com/bemmu' }
@@ -114,6 +96,14 @@ module.exports = {
     {
       name: 'Telegram',
       items: [
+        {
+          name: '@hn_best_comments',
+          url: 'https://t.me/hn_best_comments',
+          source: {
+            type: 'github',
+            url: 'https://github.com/border-radius/hn-best-comments'
+          }
+        },
         {
           name: '@hacker_news_feed',
           url: 'https://t.me/hacker_news_feed',
@@ -157,17 +147,6 @@ module.exports = {
       ]
     },
     {
-      name: 'Twitter',
-      items: [
-        {
-          name: '@newsycombinator',
-          url: 'https://twitter.com/newsycombinator'
-        },
-        { name: '@newsyc200', url: 'https://twitter.com/newsyc200' },
-        { name: '@newsyc250', url: 'https://twitter.com/newsyc250' },
-      ]
-    },
-    {
       name: 'RSS',
       items: [
         {
@@ -199,6 +178,12 @@ module.exports = {
             url: 'https://github.com/dangrossman'
           }
         }
+      ]
+    },
+    {
+      name: 'Gopher',
+      items: [
+        { name: 'HN Gopher', url: 'gopher://hngopher.com/1' }
       ]
     },
     {
@@ -294,6 +279,9 @@ module.exports = {
     }, {
       name: 'Twitter',
       items: [
+        { name: '@newsycombinator', url: 'https://twitter.com/newsycombinator', reason: 'no posts since Jun 23, 2023' },
+        { name: '@newsyc200', url: 'https://twitter.com/newsyc200', reason: 'lost Twitter API access in June 2023' },
+        { name: '@newsyc250', url: 'https://twitter.com/newsyc250', reason: 'lost Twitter API access in June 2023' },
         { name: '@JustShowHN', url: 'https://twitter.com/JustShowHN', reason: 'suspended' },
         { name: '@newsyc20', url: 'https://twitter.com/newsyc20', reason: 'suspended' },
         { name: '@newsyc50', url: 'https://twitter.com/newsyc50', reason: 'suspended' },
@@ -306,6 +294,27 @@ module.exports = {
     {
       name: 'Web',
       items: [
+        {
+          name: 'Hacker News Confidence',
+          url: 'http://hn.elijames.org/',
+          author: { name: 'Eli James', url: 'https://github.com/ejamesc' },
+          reason: 'story list is empty'
+        },
+        {
+          name: 'hack.ernews.info',
+          url: 'http://hack.ernews.info',
+          author: {
+            name: 'Antonis Karamitros',
+            url: 'https://github.com/AntouanK'
+          },
+          reason: 'DNS failure'
+        },
+        {
+          name: 'Wayback HN',
+          url: 'http://www.waybackhn.com/',
+          author: { name: 'Jonathan Dubin', url: 'https://github.com/jondubin' },
+          reason: '404 placeholder'
+        },
         {
           name: 'hackerbra.in',
           url: 'http://hackerbra.in',
