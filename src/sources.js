@@ -4,6 +4,11 @@ module.exports = {
       name: 'Web',
       items: [
         {
+          name: 'HackerTube',
+          url: 'https://hackertube.org/',
+          author: { name: 'Andrej Karpathy', url: 'https://karpathy.ai/' }
+        },
+        {
           name: 'Brutalist Hacker News',
           url: 'https://brutalisthackernews.com',
           author: { name: 'W. Kyle Graves', url: 'https://github.com/wkyleg' },

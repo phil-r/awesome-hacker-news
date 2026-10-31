@@ -90,6 +90,7 @@
 - [Full Hacker News](http://www.fullhn.com/) by [Maurice Svay](https://github.com/mauricesvay)
 - [Hacker News Daily](http://www.daemonology.net/hn-daily) by Colin Percival
 - [Hacker News Rankings](http://hnrankings.info/) by [Marc Neuwirth](https://github.com/marcneuwirth)
+- [HackerTube](https://hackertube.org/) by [Andrej Karpathy](https://karpathy.ai/)
 - [Hakkernieuws](https://hakkernieuws.vercel.app/top) by [AntonioEritas](https://news.ycombinator.com/user?id=AntonioEritas)
 - [hcker.news](https://hcker.news/) by [postalcoder](https://news.ycombinator.com/user?id=postalcoder)
 - [hckrnews.com](http://hckrnews.com) by [Wayne Larsen](https://github.com/wvl)
