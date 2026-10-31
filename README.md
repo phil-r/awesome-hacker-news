@@ -52,7 +52,6 @@
 - [HackerNewsWatch](https://github.com/wieslawsoltes/HackerNewsWatch) by [Wiesław Šoltés](https://github.com/wieslawsoltes)
 - [Hacki](https://github.com/Livinglist/Hacki) by [Jiaqi Feng](https://github.com/Livinglist)
 - [Hacko (formerly HackerNewt)](https://apps.apple.com/us/app/hacko-for-hacker-news/id6448201970) by [Andrii Sievrikov](https://github.com/devandsev)
-- [Hekla](https://github.com/birkir/hekla) by [Birkir Rafn Guðjónsson](https://github.com/birkir)
 
 ## Mobile Web
 

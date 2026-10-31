@@ -436,14 +436,6 @@ module.exports = {
           source: { type: 'github', url: 'https://github.com/DatanoiseTV/ember-hackernews' }
         },
         {
-          name: 'Hekla',
-          url: 'https://github.com/birkir/hekla',
-          author: {
-            name: 'Birkir Rafn Guðjónsson',
-            url: 'https://github.com/birkir'
-          }
-        },
-        {
           name: 'Hacki',
           url: 'https://github.com/Livinglist/Hacki',
           author: {
@@ -455,6 +447,20 @@ module.exports = {
     },
   ],
   graveyard: [
+    {
+      name: 'Mobile App',
+      items: [
+        {
+          name: 'Hekla',
+          url: 'https://github.com/birkir/hekla',
+          author: {
+            name: 'Birkir Rafn Guðjónsson',
+            url: 'https://github.com/birkir'
+          },
+          reason: 'App Store and Google Play links returned 404'
+        }
+      ]
+    },
     {
       name: 'Email',
       items: [
