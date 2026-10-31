@@ -4,6 +4,26 @@ module.exports = {
       name: 'Web',
       items: [
         {
+          name: 'hcker.news',
+          url: 'https://hcker.news/',
+          author: { name: 'postalcoder', url: 'https://news.ycombinator.com/user?id=postalcoder' }
+        },
+        {
+          name: 'The Front Page',
+          url: 'https://thefrontpage.dev/',
+          author: { name: 'George Stagas', url: 'https://github.com/stagas' }
+        },
+        {
+          name: 'HN Glance',
+          url: 'https://hnglance.com/top',
+          author: { name: 'valentinvieriu', url: 'https://news.ycombinator.com/user?id=valentinvieriu' }
+        },
+        {
+          name: 'HN.watch',
+          url: 'https://hn.watch/',
+          author: { name: 'Per Borgen and the Scrimba team', url: 'https://news.ycombinator.com/user?id=mrborgen' }
+        },
+        {
           name: 'Official Website',
           url: 'https://news.ycombinator.com'
         },
@@ -65,6 +85,39 @@ module.exports = {
           name: 'How Hacker News looked when you joined',
           url: 'http://bemmu.github.io/hncakeday/',
           author: { name: 'Bemmu Sepponen', url: 'https://github.com/bemmu' }
+        }
+      ]
+    },
+    {
+      name: 'Discovery and Analysis',
+      items: [
+        {
+          name: 'HN Hall of Fame',
+          url: 'https://www.orangecrumbs.com/hall/',
+          author: { name: 'oyster143', url: 'https://news.ycombinator.com/user?id=oyster143' }
+        },
+        {
+          name: 'Hacker News Trends',
+          url: 'https://hackernewstrends.com/',
+          author: { name: 'ytkimirti', url: 'https://news.ycombinator.com/user?id=ytkimirti' },
+          source: { type: 'github', url: 'https://github.com/upstash/hacker-trends' }
+        },
+        {
+          name: 'Hacker Atlas',
+          url: 'https://hackeratlas.com/',
+          author: { name: 'Andrea Ritossa', url: 'https://github.com/andrearitossa' },
+          source: { type: 'github', url: 'https://github.com/andrearitossa/hn-atlas' }
+        }
+      ]
+    },
+    {
+      name: 'Utilities',
+      items: [
+        {
+          name: 'HNswered',
+          url: 'https://github.com/adam-s/HNswered',
+          author: { name: 'adam-s', url: 'https://github.com/adam-s' },
+          source: { type: 'github', url: 'https://github.com/adam-s/HNswered' }
         }
       ]
     },
@@ -196,6 +249,12 @@ module.exports = {
       name: 'Desktop',
       items: [
         {
+          name: 'Hacker News for macOS',
+          url: 'https://github.com/IronsideXXVI/Hacker-News',
+          author: { name: 'Dylan Ironside', url: 'https://github.com/IronsideXXVI' },
+          source: { type: 'github', url: 'https://github.com/IronsideXXVI/Hacker-News' }
+        },
+        {
           name: 'HNClient',
           url: 'https://florian.github.io/HNClient',
           author: {
@@ -208,6 +267,12 @@ module.exports = {
     {
       name: 'Command Line',
       items: [
+        {
+          name: 'hntui',
+          url: 'https://github.com/ahmd-sh/hntui',
+          author: { name: 'Ahmed Shaikh', url: 'https://github.com/ahmd-sh' },
+          source: { type: 'github', url: 'https://github.com/ahmd-sh/hntui' }
+        },
         {
           name: 'haxor-news',
           url: 'https://github.com/donnemartin/haxor-news',
@@ -234,6 +299,17 @@ module.exports = {
     {
       name: 'Mobile App',
       items: [
+        {
+          name: 'HackerFlow',
+          url: 'https://hackerflow.app/',
+          author: { name: 'alefalfa', url: 'https://news.ycombinator.com/user?id=alefalfa' }
+        },
+        {
+          name: 'Ember',
+          url: 'https://github.com/DatanoiseTV/ember-hackernews',
+          author: { name: 'Sylwester', url: 'https://github.com/DatanoiseTV' },
+          source: { type: 'github', url: 'https://github.com/DatanoiseTV/ember-hackernews' }
+        },
         {
           name: 'Hekla',
           url: 'https://github.com/birkir/hekla',
