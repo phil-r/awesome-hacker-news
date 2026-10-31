@@ -18,8 +18,9 @@ const authorString = author => {
 
 sources.sort((a, b) => a.name.localeCompare(b.name)).forEach(({ name, items }) => {
   readme += `\n## ${name}\n\n`;
-  items.sort((a, b) => a.name.localeCompare(b.name)).forEach(({ name, url, author }) => {
-    readme += `- [${name}](${url})${author ? ` ${authorString(author)}` : ''}\n`;
+  items.sort((a, b) => a.name.localeCompare(b.name)).forEach(({ name, url, author, textReference }) => {
+    const project = textReference ? `${name}: \`${textReference}\`` : `[${name}](${url})`;
+    readme += `- ${project}${author ? ` ${authorString(author)}` : ''}\n`;
   });
 });
 

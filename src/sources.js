@@ -189,7 +189,7 @@ module.exports = {
     {
       name: 'Gopher',
       items: [
-        { name: 'HN Gopher', url: 'gopher://hngopher.com/1' }
+        { name: 'HN Gopher', textReference: 'gopher://hngopher.com/1' }
       ]
     },
     {

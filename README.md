@@ -24,7 +24,7 @@
 
 ## Gopher
 
-- [HN Gopher](gopher://hngopher.com/1)
+- HN Gopher: `gopher://hngopher.com/1`
 
 ## Mobile App
 
