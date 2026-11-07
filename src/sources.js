@@ -153,6 +153,12 @@ module.exports = {
       name: 'Utilities',
       items: [
         {
+          name: 'mcp-hn',
+          url: 'https://github.com/erithwik/mcp-hn',
+          author: { name: 'erithwik', url: 'https://github.com/erithwik' },
+          source: { type: 'github', url: 'https://github.com/erithwik/mcp-hn' }
+        },
+        {
           name: 'Humble-HN',
           url: 'https://github.com/alexmolas/humble-hn',
           author: { name: 'Alex Molas', url: 'https://github.com/alexmolas' },
@@ -328,6 +334,12 @@ module.exports = {
       name: 'Desktop',
       items: [
         {
+          name: 'HN Station',
+          url: 'https://github.com/rajeshkumarblr/hn_station',
+          author: { name: 'rajeshkumarblr', url: 'https://github.com/rajeshkumarblr' },
+          source: { type: 'github', url: 'https://github.com/rajeshkumarblr/hn_station' }
+        },
+        {
           name: 'HN Reader',
           url: 'https://github.com/haojiang99/hacker_news_reader',
           author: { name: 'coolwulf', url: 'https://news.ycombinator.com/user?id=coolwulf' },
@@ -357,6 +369,24 @@ module.exports = {
     {
       name: 'Command Line',
       items: [
+        {
+          name: 'circumflex',
+          url: 'https://github.com/bensadeh/circumflex',
+          author: { name: 'bensadeh', url: 'https://github.com/bensadeh' },
+          source: { type: 'github', url: 'https://github.com/bensadeh/circumflex' }
+        },
+        {
+          name: 'hackernews-TUI',
+          url: 'https://github.com/aome510/hackernews-TUI',
+          author: { name: 'aome510', url: 'https://github.com/aome510' },
+          source: { type: 'github', url: 'https://github.com/aome510/hackernews-TUI' }
+        },
+        {
+          name: 'hn-cli',
+          url: 'https://github.com/heartleo/hn-cli',
+          author: { name: 'heartleo', url: 'https://github.com/heartleo' },
+          source: { type: 'github', url: 'https://github.com/heartleo/hn-cli' }
+        },
         {
           name: 'Retronews',
           url: 'https://github.com/luke8086/retronews',

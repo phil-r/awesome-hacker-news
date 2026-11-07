@@ -12,8 +12,11 @@
 
 ## Command Line
 
+- [circumflex](https://github.com/bensadeh/circumflex) by [bensadeh](https://github.com/bensadeh)
 - [go-hn](https://gitlab.com/shank/go-hn) by [Shashank Sharma](https://gitlab.com/u/shank)
+- [hackernews-TUI](https://github.com/aome510/hackernews-TUI) by [aome510](https://github.com/aome510)
 - [haxor-news](https://github.com/donnemartin/haxor-news) by [Donne Martin](https://github.com/donnemartin)
+- [hn-cli](https://github.com/heartleo/hn-cli) by [heartleo](https://github.com/heartleo)
 - [hn-term](https://github.com/aotakeda/hn-term) by [Arthur Takeda](https://github.com/aotakeda)
 - [hnterminal](https://github.com/Aperocky/hnterminal) by [Rocky Li](https://github.com/Aperocky)
 - [hntui](https://github.com/ahmd-sh/hntui) by [Ahmed Shaikh](https://github.com/ahmd-sh)
@@ -25,6 +28,7 @@
 - [120 HN](https://120.dev/hn) by [120.dev](https://news.ycombinator.com/user?id=120-dev)
 - [Hacker News for macOS](https://github.com/IronsideXXVI/Hacker-News) by [Dylan Ironside](https://github.com/IronsideXXVI)
 - [HN Reader](https://github.com/haojiang99/hacker_news_reader) by [coolwulf](https://news.ycombinator.com/user?id=coolwulf)
+- [HN Station](https://github.com/rajeshkumarblr/hn_station) by [rajeshkumarblr](https://github.com/rajeshkumarblr)
 - [HNClient](https://florian.github.io/HNClient) by [Florian Hartmann](https://github.com/florian)
 
 ## Discovery and Analysis
@@ -82,6 +86,7 @@
 - [HNswered](https://github.com/adam-s/HNswered) by [adam-s](https://github.com/adam-s)
 - [Humble-HN](https://github.com/alexmolas/humble-hn) by [Alex Molas](https://github.com/alexmolas)
 - [Kindle Digest](https://github.com/dnldsht/kindle-digest) by [Donald Shtjefni](https://github.com/dnldsht)
+- [mcp-hn](https://github.com/erithwik/mcp-hn) by [erithwik](https://github.com/erithwik)
 
 ## Web
 
