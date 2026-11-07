@@ -90,26 +90,24 @@
 
 ## Web
 
+- [Better HN](https://bhn.pajecawav.dev) by [pajecawav](https://github.com/pajecawav)
 - [Brutalist Hacker News](https://brutalisthackernews.com) by [W. Kyle Graves](https://github.com/wkyleg)
 - [Full Hacker News](http://www.fullhn.com/) by [Maurice Svay](https://github.com/mauricesvay)
 - [Hacker News Daily](http://www.daemonology.net/hn-daily) by Colin Percival
 - [Hacker News Rankings](http://hnrankings.info/) by [Marc Neuwirth](https://github.com/marcneuwirth)
 - [HackerTube](https://hackertube.org/) by [Andrej Karpathy](https://karpathy.ai/)
-- [Hakkernieuws](https://hakkernieuws.vercel.app/top) by [AntonioEritas](https://news.ycombinator.com/user?id=AntonioEritas)
 - [hcker.news](https://hcker.news/) by [postalcoder](https://news.ycombinator.com/user?id=postalcoder)
 - [hckrnews.com](http://hckrnews.com) by [Wayne Larsen](https://github.com/wvl)
 - [HN Glance](https://hnglance.com/top) by [valentinvieriu](https://news.ycombinator.com/user?id=valentinvieriu)
-- [HN Hiring Mapped](http://gaganpreet.github.io/hn-hiring-mapped/src/web/) by [Gaganpreet](https://github.com/gaganpreet)
 - [HN Watercooler](https://onetake-ai.github.io/hackernews-watercooler/) by [Sébastien Night](https://news.ycombinator.com/user?id=sebastiennight)
 - [HN-YT](https://hn-yt.netlify.app/) by [Sahil](https://sahil.world/)
 - [HN.watch](https://hn.watch/) by [Per Borgen and the Scrimba team](https://news.ycombinator.com/user?id=mrborgen)
 - [hnhiring.com](http://hnhiring.com/) by [Jordi Noguera](https://github.com/jordinl)
-- [hnhiring.me](http://hnhiring.me/) by [Micah Wylde](https://github.com/mwylde)
 - [How Hacker News looked when you joined](http://bemmu.github.io/hncakeday/) by [Bemmu Sepponen](https://github.com/bemmu)
 - [Official Website](https://news.ycombinator.com)
 - [Random Hacker News](https://randomhackernews.com) by [Nick](https://nickipedia.dev/)
 - [React HN](http://insin.github.io/react-hn/) by [Jonny Buchanan](https://github.com/insin)
-- [serializer.io](http://www.serializer.io) by [Charlie Egan](https://github.com/charlieegan3)
+- [serializer.io](https://serializer.io/) by [Charlie Egan](https://github.com/charlieegan3)
 - [The Front Page](https://thefrontpage.dev/) by [George Stagas](https://github.com/stagas)
 
 ## 𝕏

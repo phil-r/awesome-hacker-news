@@ -21,9 +21,10 @@ module.exports = {
           source: { type: 'github', url: 'https://github.com/nickipedia/Random-HackerNews-Front-Page' }
         },
         {
-          name: 'Hakkernieuws',
-          url: 'https://hakkernieuws.vercel.app/top',
-          author: { name: 'AntonioEritas', url: 'https://news.ycombinator.com/user?id=AntonioEritas' }
+          name: 'Better HN',
+          url: 'https://bhn.pajecawav.dev',
+          author: { name: 'pajecawav', url: 'https://github.com/pajecawav' },
+          source: { type: 'github', url: 'https://github.com/pajecawav/better-hn' }
         },
         {
           name: 'HN-YT',
@@ -84,11 +85,6 @@ module.exports = {
           author: { name: 'Jordi Noguera', url: 'https://github.com/jordinl' }
         },
         {
-          name: 'hnhiring.me',
-          url: 'http://hnhiring.me/',
-          author: { name: 'Micah Wylde', url: 'https://github.com/mwylde' }
-        },
-        {
           name: 'Full Hacker News',
           url: 'http://www.fullhn.com/',
           author: {
@@ -97,18 +93,13 @@ module.exports = {
           }
         },
         {
-          name: 'HN Hiring Mapped',
-          url: 'http://gaganpreet.github.io/hn-hiring-mapped/src/web/',
-          author: { name: 'Gaganpreet', url: 'https://github.com/gaganpreet' }
-        },
-        {
           name: 'React HN',
           url: 'http://insin.github.io/react-hn/',
           author: { name: 'Jonny Buchanan', url: 'https://github.com/insin' }
         },
         {
           name: 'serializer.io',
-          url: 'http://www.serializer.io',
+          url: 'https://serializer.io/',
           author: {
             name: 'Charlie Egan',
             url: 'https://github.com/charlieegan3'
@@ -564,6 +555,24 @@ module.exports = {
     {
       name: 'Web',
       items: [
+        {
+          name: 'HN Hiring Mapped',
+          url: 'http://gaganpreet.github.io/hn-hiring-mapped/src/web/',
+          author: { name: 'Gaganpreet', url: 'https://github.com/gaganpreet' },
+          reason: 'latest hiring period displayed was April 2018 (checked November 7, 2026)'
+        },
+        {
+          name: 'hnhiring.me',
+          url: 'http://hnhiring.me/',
+          author: { name: 'Micah Wylde', url: 'https://github.com/mwylde' },
+          reason: 'latest hiring period displayed was October 2025 (checked November 7, 2026)'
+        },
+        {
+          name: 'Hakkernieuws',
+          url: 'https://hakkernieuws.vercel.app/top',
+          author: { name: 'AntonioEritas', url: 'https://news.ycombinator.com/user?id=AntonioEritas' },
+          reason: 'Vercel deployment not found (checked November 7, 2026)'
+        },
         {
           name: 'HomeBrew HN',
           url: 'https://www.hackernews.coffee/',
