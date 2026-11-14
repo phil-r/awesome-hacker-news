@@ -13,10 +13,11 @@
 ## Command Line
 
 - [circumflex](https://github.com/bensadeh/circumflex) by [bensadeh](https://github.com/bensadeh)
-- [go-hn](https://gitlab.com/shank/go-hn) by [Shashank Sharma](https://gitlab.com/u/shank)
+- [go-hn](https://gitlab.com/shank-utils/go-hn) by [Shashank Sharma](https://gitlab.com/u/shank)
 - [hackernews-TUI](https://github.com/aome510/hackernews-TUI) by [aome510](https://github.com/aome510)
 - [haxor-news](https://github.com/donnemartin/haxor-news) by [Donne Martin](https://github.com/donnemartin)
 - [hn-cli](https://github.com/heartleo/hn-cli) by [heartleo](https://github.com/heartleo)
+- [hn-cli (kaushalvivek)](https://github.com/kaushalvivek/hn-cli) by [Vivek Kaushal](https://github.com/kaushalvivek)
 - [hn-term](https://github.com/aotakeda/hn-term) by [Arthur Takeda](https://github.com/aotakeda)
 - [hnterminal](https://github.com/Aperocky/hnterminal) by [Rocky Li](https://github.com/Aperocky)
 - [hntui](https://github.com/ahmd-sh/hntui) by [Ahmed Shaikh](https://github.com/ahmd-sh)
@@ -33,13 +34,18 @@
 
 ## Discovery and Analysis
 
+- [Hacker Again](https://hackeragain.com/) by [yewenjie](https://news.ycombinator.com/user?id=yewenjie)
 - [Hacker Atlas](https://hackeratlas.com/) by [Andrea Ritossa](https://github.com/andrearitossa)
 - [Hacker News Trends](https://hackernewstrends.com/) by [ytkimirti](https://news.ycombinator.com/user?id=ytkimirti)
+- [HackerBlogs](https://hackerblogs.app/) by [Ian Hsiao](https://www.ianhsiao.me/)
+- [HackerCast](https://hackercast.org/) by [rjcrystal](https://news.ycombinator.com/user?id=rjcrystal)
+- [HN Books](https://www.hacker-books.io/)
 - [HN Hall of Fame](https://www.orangecrumbs.com/hall/) by [oyster143](https://news.ycombinator.com/user?id=oyster143)
 - [HN Overlooked](https://pj4533.com/hn-overlooked/) by [PJ Gray](https://github.com/pj4533)
 
 ## Email
 
+- [hackernewsletter.com](https://hackernewsletter.com/) by [Kale Davis](https://github.com/kale)
 - [HN Replies](http://www.hnreplies.com) by [Dan Grossman](https://github.com/dangrossman)
 - [hndigest](http://hndigest.wordpress.com) by Julian Corlet
 - [hndigest.com](http://www.hndigest.com)
@@ -66,7 +72,7 @@
 ## RSS
 
 - [hnapp.com](http://hnapp.com) by [Nikita Gazarov](https://github.com/raquo)
-- [hnrss](https://edavis.github.io/hnrss) by [Eric Davis](https://github.com/edavis)
+- [hnrss](https://hnrss.github.io/) by [Eric Davis](https://github.com/edavis)
 
 ## Telegram
 
@@ -94,7 +100,8 @@
 - [Brutalist Hacker News](https://brutalisthackernews.com) by [W. Kyle Graves](https://github.com/wkyleg)
 - [Full Hacker News](http://www.fullhn.com/) by [Maurice Svay](https://github.com/mauricesvay)
 - [Hacker News Daily](http://www.daemonology.net/hn-daily) by Colin Percival
-- [Hacker News Rankings](http://hnrankings.info/) by [Marc Neuwirth](https://github.com/marcneuwirth)
+- [Hacker News Rankings](https://hnrankings.com/) by [Marc Neuwirth](https://github.com/marcneuwirth)
+- [Hacker News Time](https://hackernewstime.com/) by [MK2k](https://news.ycombinator.com/user?id=MK2k)
 - [HackerTube](https://hackertube.org/) by [Andrej Karpathy](https://karpathy.ai/)
 - [hcker.news](https://hcker.news/) by [postalcoder](https://news.ycombinator.com/user?id=postalcoder)
 - [hckrnews.com](http://hckrnews.com) by [Wayne Larsen](https://github.com/wvl)

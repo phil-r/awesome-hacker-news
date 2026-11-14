@@ -4,6 +4,11 @@ module.exports = {
       name: 'Web',
       items: [
         {
+          name: 'Hacker News Time',
+          url: 'https://hackernewstime.com/',
+          author: { name: 'MK2k', url: 'https://news.ycombinator.com/user?id=MK2k' }
+        },
+        {
           name: 'HackerTube',
           url: 'https://hackertube.org/',
           author: { name: 'Andrej Karpathy', url: 'https://karpathy.ai/' }
@@ -73,7 +78,7 @@ module.exports = {
         },
         {
           name: 'Hacker News Rankings',
-          url: 'http://hnrankings.info/',
+          url: 'https://hnrankings.com/',
           author: {
             name: 'Marc Neuwirth',
             url: 'https://github.com/marcneuwirth'
@@ -115,6 +120,25 @@ module.exports = {
     {
       name: 'Discovery and Analysis',
       items: [
+        {
+          name: 'Hacker Again',
+          url: 'https://hackeragain.com/',
+          author: { name: 'yewenjie', url: 'https://news.ycombinator.com/user?id=yewenjie' }
+        },
+        {
+          name: 'HackerBlogs',
+          url: 'https://hackerblogs.app/',
+          author: { name: 'Ian Hsiao', url: 'https://www.ianhsiao.me/' }
+        },
+        {
+          name: 'HackerCast',
+          url: 'https://hackercast.org/',
+          author: { name: 'rjcrystal', url: 'https://news.ycombinator.com/user?id=rjcrystal' }
+        },
+        {
+          name: 'HN Books',
+          url: 'https://www.hacker-books.io/'
+        },
         {
           name: 'HN Overlooked',
           url: 'https://pj4533.com/hn-overlooked/',
@@ -291,7 +315,7 @@ module.exports = {
         },
         {
           name: 'hnrss',
-          url: 'https://edavis.github.io/hnrss',
+          url: 'https://hnrss.github.io/',
           author: { name: 'Eric Davis', url: 'https://github.com/edavis' }
         }
       ]
@@ -299,6 +323,11 @@ module.exports = {
     {
       name: 'Email',
       items: [
+        {
+          name: 'hackernewsletter.com',
+          url: 'https://hackernewsletter.com/',
+          author: { name: 'Kale Davis', url: 'https://github.com/kale' }
+        },
         {
           name: 'hndigest',
           url: 'http://hndigest.wordpress.com',
@@ -361,6 +390,12 @@ module.exports = {
       name: 'Command Line',
       items: [
         {
+          name: 'hn-cli (kaushalvivek)',
+          url: 'https://github.com/kaushalvivek/hn-cli',
+          author: { name: 'Vivek Kaushal', url: 'https://github.com/kaushalvivek' },
+          source: { type: 'github', url: 'https://github.com/kaushalvivek/hn-cli' }
+        },
+        {
           name: 'circumflex',
           url: 'https://github.com/bensadeh/circumflex',
           author: { name: 'bensadeh', url: 'https://github.com/bensadeh' },
@@ -420,7 +455,7 @@ module.exports = {
         },
         {
           name: 'go-hn',
-          url: 'https://gitlab.com/shank/go-hn',
+          url: 'https://gitlab.com/shank-utils/go-hn',
           author: { name: 'Shashank Sharma', url: 'https://gitlab.com/u/shank' }
         }
       ]
@@ -486,10 +521,6 @@ module.exports = {
       name: 'Email',
       items: [
         {
-          name: 'hackernewsletter.com',
-          url: 'http://www.hackernewsletter.com',
-          author: { name: 'Kale Davis', url: 'https://github.com/kale' }
-        }, {
           name: 'hackersdaily.com',
           url: 'http://www.hackersdaily.com',
           author: { name: 'Mike Singer' }
@@ -526,7 +557,7 @@ module.exports = {
         { name: '@newsyc50', url: 'https://x.com/newsyc50', reason: 'suspended' },
         { name: '@newsyc100', url: 'https://x.com/newsyc100', reason: 'no posts since Sep 25, 2022' },
         { name: '@newsyc150', url: 'https://x.com/newsyc150', reason: 'no posts since Sep 25, 2022' },
-        { name: '@HackerNewsYCBot', url: 'https://x.com/HackerNewsYCBot', reason: 'no posts since Oct 25, 2017' },
+        { name: '@HackerNewsYCBot', url: 'https://x.com/HackerNewsYCBot', reason: 'suspended (checked Nov 14, 2026)' },
         { name: '@hackernewsbot', url: 'https://x.com/hackernewsbot', reason: 'no posts since Mar 13, 2021' },
       ]
     },
@@ -720,7 +751,7 @@ module.exports = {
           name: 'TiledHN',
           url: 'http://www.tiledhn.com/',
           author: { name: 'Prakhar Bhandari', url: 'https://github.com/pbjr23' },
-          reason: 'application error'
+          reason: 'story lists empty (checked Nov 14, 2026)'
         },
       ]
     }]
