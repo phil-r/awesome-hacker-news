@@ -1,6 +1,6 @@
 {
   "name": "awesome-hacker-news",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "More awesome hacker news!",
   "main": "src/sources.js",
   "types": "src/sources.d.ts",
