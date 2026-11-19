@@ -93,6 +93,7 @@
 - [Humble-HN](https://github.com/alexmolas/humble-hn) by [Alex Molas](https://github.com/alexmolas)
 - [Kindle Digest](https://github.com/dnldsht/kindle-digest) by [Donald Shtjefni](https://github.com/dnldsht)
 - [mcp-hn](https://github.com/erithwik/mcp-hn) by [erithwik](https://github.com/erithwik)
+- [Vouch](https://vouch.rodneygainous.com) by [Rodney Gainous](https://github.com/rodneyg)
 
 ## Web
 
