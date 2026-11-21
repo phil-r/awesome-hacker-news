@@ -9,11 +9,6 @@ module.exports = {
           author: { name: 'MK2k', url: 'https://news.ycombinator.com/user?id=MK2k' }
         },
         {
-          name: 'HackerTube',
-          url: 'https://hackertube.org/',
-          author: { name: 'Andrej Karpathy', url: 'https://karpathy.ai/' }
-        },
-        {
           name: 'Brutalist Hacker News',
           url: 'https://brutalisthackernews.com',
           author: { name: 'W. Kyle Graves', url: 'https://github.com/wkyleg' },
@@ -30,11 +25,6 @@ module.exports = {
           url: 'https://bhn.pajecawav.dev',
           author: { name: 'pajecawav', url: 'https://github.com/pajecawav' },
           source: { type: 'github', url: 'https://github.com/pajecawav/better-hn' }
-        },
-        {
-          name: 'HN-YT',
-          url: 'https://hn-yt.netlify.app/',
-          author: { name: 'Sahil', url: 'https://sahil.world/' }
         },
         {
           name: 'HN Watercooler',
@@ -121,23 +111,14 @@ module.exports = {
       name: 'Discovery and Analysis',
       items: [
         {
+          name: 'Y Recombinator',
+          url: 'https://yrecombinator.org/',
+          author: { name: 'nightjar', url: 'https://news.ycombinator.com/user?id=nightjar' }
+        },
+        {
           name: 'Hacker Again',
           url: 'https://hackeragain.com/',
           author: { name: 'yewenjie', url: 'https://news.ycombinator.com/user?id=yewenjie' }
-        },
-        {
-          name: 'HackerBlogs',
-          url: 'https://hackerblogs.app/',
-          author: { name: 'Ian Hsiao', url: 'https://www.ianhsiao.me/' }
-        },
-        {
-          name: 'HackerCast',
-          url: 'https://hackercast.org/',
-          author: { name: 'rjcrystal', url: 'https://news.ycombinator.com/user?id=rjcrystal' }
-        },
-        {
-          name: 'HN Books',
-          url: 'https://www.hacker-books.io/'
         },
         {
           name: 'HN Overlooked',
@@ -161,6 +142,90 @@ module.exports = {
           url: 'https://hackeratlas.com/',
           author: { name: 'Andrea Ritossa', url: 'https://github.com/andrearitossa' },
           source: { type: 'github', url: 'https://github.com/andrearitossa/hn-atlas' }
+        }
+      ]
+    },
+    {
+      name: 'Recommended on HN',
+      items: [
+        {
+          name: 'HackerBlogs',
+          url: 'https://hackerblogs.app/',
+          author: { name: 'Ian Hsiao', url: 'https://www.ianhsiao.me/' }
+        },
+        {
+          name: 'HackerCast',
+          url: 'https://hackercast.org/',
+          author: { name: 'rjcrystal', url: 'https://news.ycombinator.com/user?id=rjcrystal' }
+        },
+        {
+          name: 'HN Books',
+          url: 'https://www.hacker-books.io/',
+          author: { name: 'pmoxim', url: 'https://news.ycombinator.com/user?id=pmoxim' }
+        },
+        {
+          name: 'HackerTube',
+          url: 'https://hackertube.org/',
+          author: { name: 'Andrej Karpathy', url: 'https://karpathy.ai/' }
+        },
+        {
+          name: 'HN-YT',
+          url: 'https://hn-yt.netlify.app/',
+          author: { name: 'Sahil', url: 'https://sahil.world/' }
+        },
+        {
+          name: 'HackerBooks',
+          url: 'https://hackerbooks.org/',
+          author: { name: 'roansh', url: 'https://news.ycombinator.com/user?id=roansh' }
+        },
+        {
+          name: 'Hacker Cinema',
+          url: 'https://hacker-cinema.chapra.co/',
+          author: { name: 'muddi900', url: 'https://news.ycombinator.com/user?id=muddi900' }
+        },
+        {
+          name: 'HackerGames',
+          url: 'https://architrixs.github.io/HackerGames/',
+          author: { name: 'Architrixs', url: 'https://github.com/Architrixs' }
+        },
+        {
+          name: 'HackerGit',
+          url: 'https://hackergit.org/',
+          author: { name: 'Murtaza Yusuf', url: 'https://github.com/murtazayusuf' },
+          source: { type: 'github', url: 'https://github.com/murtazayusuf/hackergit' }
+        },
+        {
+          name: 'WikiHack',
+          url: 'https://wikihack.netlify.app/',
+          author: { name: 'aizk', url: 'https://news.ycombinator.com/user?id=aizk' }
+        },
+        {
+          name: 'HackerTV',
+          url: 'https://hackertv.org/',
+          author: { name: 'dsalzman', url: 'https://github.com/dsalzman' },
+          source: { type: 'github', url: 'https://github.com/dsalzman/hackertv' }
+        },
+        {
+          name: 'HackerTube for Android TV',
+          url: 'https://hackertube.tv/',
+          author: { name: 'Ephraim Duncan', url: 'https://github.com/ephraimduncan' },
+          source: { type: 'github', url: 'https://github.com/ephraimduncan/hackertube.tv' }
+        },
+        {
+          name: 'HackerTube for Apple TV',
+          url: 'https://github.com/Jnaina/hackertube-tvos',
+          author: { name: 'Jnaina', url: 'https://github.com/Jnaina' },
+          source: { type: 'github', url: 'https://github.com/Jnaina/hackertube-tvos' }
+        },
+        {
+          name: 'hacker.living',
+          url: 'https://hacker.living/',
+          author: { name: 'grandimam', url: 'https://news.ycombinator.com/user?id=grandimam' }
+        },
+        {
+          name: 'HackerEverything',
+          url: 'https://hackereverything.pages.dev/',
+          author: { name: 'mk93074', url: 'https://news.ycombinator.com/user?id=mk93074' }
         }
       ]
     },

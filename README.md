@@ -37,11 +37,9 @@
 - [Hacker Again](https://hackeragain.com/) by [yewenjie](https://news.ycombinator.com/user?id=yewenjie)
 - [Hacker Atlas](https://hackeratlas.com/) by [Andrea Ritossa](https://github.com/andrearitossa)
 - [Hacker News Trends](https://hackernewstrends.com/) by [ytkimirti](https://news.ycombinator.com/user?id=ytkimirti)
-- [HackerBlogs](https://hackerblogs.app/) by [Ian Hsiao](https://www.ianhsiao.me/)
-- [HackerCast](https://hackercast.org/) by [rjcrystal](https://news.ycombinator.com/user?id=rjcrystal)
-- [HN Books](https://www.hacker-books.io/)
 - [HN Hall of Fame](https://www.orangecrumbs.com/hall/) by [oyster143](https://news.ycombinator.com/user?id=oyster143)
 - [HN Overlooked](https://pj4533.com/hn-overlooked/) by [PJ Gray](https://github.com/pj4533)
+- [Y Recombinator](https://yrecombinator.org/) by [nightjar](https://news.ycombinator.com/user?id=nightjar)
 
 ## Email
 
@@ -68,6 +66,24 @@
 - [hacker-news-digest](http://hackernews.betacat.io/) by [Poly Miao](https://github.com/polyrabbit/)
 - [HackerWeb](http://hackerwebapp.com/) by [Lim Chee Aun](https://github.com/cheeaun)
 - [hn.premii.com](http://hn.premii.com/) by [Dharmesh Patel](https://github.com/premii)
+
+## Recommended on HN
+
+- [Hacker Cinema](https://hacker-cinema.chapra.co/) by [muddi900](https://news.ycombinator.com/user?id=muddi900)
+- [hacker.living](https://hacker.living/) by [grandimam](https://news.ycombinator.com/user?id=grandimam)
+- [HackerBlogs](https://hackerblogs.app/) by [Ian Hsiao](https://www.ianhsiao.me/)
+- [HackerBooks](https://hackerbooks.org/) by [roansh](https://news.ycombinator.com/user?id=roansh)
+- [HackerCast](https://hackercast.org/) by [rjcrystal](https://news.ycombinator.com/user?id=rjcrystal)
+- [HackerEverything](https://hackereverything.pages.dev/) by [mk93074](https://news.ycombinator.com/user?id=mk93074)
+- [HackerGames](https://architrixs.github.io/HackerGames/) by [Architrixs](https://github.com/Architrixs)
+- [HackerGit](https://hackergit.org/) by [Murtaza Yusuf](https://github.com/murtazayusuf)
+- [HackerTube](https://hackertube.org/) by [Andrej Karpathy](https://karpathy.ai/)
+- [HackerTube for Android TV](https://hackertube.tv/) by [Ephraim Duncan](https://github.com/ephraimduncan)
+- [HackerTube for Apple TV](https://github.com/Jnaina/hackertube-tvos) by [Jnaina](https://github.com/Jnaina)
+- [HackerTV](https://hackertv.org/) by [dsalzman](https://github.com/dsalzman)
+- [HN Books](https://www.hacker-books.io/) by [pmoxim](https://news.ycombinator.com/user?id=pmoxim)
+- [HN-YT](https://hn-yt.netlify.app/) by [Sahil](https://sahil.world/)
+- [WikiHack](https://wikihack.netlify.app/) by [aizk](https://news.ycombinator.com/user?id=aizk)
 
 ## RSS
 
@@ -102,12 +118,10 @@
 - [Hacker News Daily](http://www.daemonology.net/hn-daily) by Colin Percival
 - [Hacker News Rankings](https://hnrankings.com/) by [Marc Neuwirth](https://github.com/marcneuwirth)
 - [Hacker News Time](https://hackernewstime.com/) by [MK2k](https://news.ycombinator.com/user?id=MK2k)
-- [HackerTube](https://hackertube.org/) by [Andrej Karpathy](https://karpathy.ai/)
 - [hcker.news](https://hcker.news/) by [postalcoder](https://news.ycombinator.com/user?id=postalcoder)
 - [hckrnews.com](http://hckrnews.com) by [Wayne Larsen](https://github.com/wvl)
 - [HN Glance](https://hnglance.com/top) by [valentinvieriu](https://news.ycombinator.com/user?id=valentinvieriu)
 - [HN Watercooler](https://onetake-ai.github.io/hackernews-watercooler/) by [Sébastien Night](https://news.ycombinator.com/user?id=sebastiennight)
-- [HN-YT](https://hn-yt.netlify.app/) by [Sahil](https://sahil.world/)
 - [HN.watch](https://hn.watch/) by [Per Borgen and the Scrimba team](https://news.ycombinator.com/user?id=mrborgen)
 - [hnhiring.com](http://hnhiring.com/) by [Jordi Noguera](https://github.com/jordinl)
 - [How Hacker News looked when you joined](http://bemmu.github.io/hncakeday/) by [Bemmu Sepponen](https://github.com/bemmu)
