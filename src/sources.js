@@ -303,6 +303,11 @@ module.exports = {
       name: 'Utilities',
       items: [
         {
+          name: 'Vouch',
+          url: 'https://vouch.rodneygainous.com',
+          author: { name: 'Rodney Gainous', url: 'https://github.com/rodneyg' }
+        },
+        {
           name: 'mcp-hn',
           url: 'https://github.com/erithwik/mcp-hn',
           author: { name: 'erithwik', url: 'https://github.com/erithwik' },
