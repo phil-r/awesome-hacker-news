@@ -170,8 +170,7 @@ module.exports = {
         {
           name: 'Vouch',
           url: 'https://vouch.rodneygainous.com',
-          author: { name: 'Rodney Gainous', url: 'https://github.com/rodneyg' },
-          source: { type: 'github', url: 'https://github.com/rodneyg/vouch' }
+          author: { name: 'Rodney Gainous', url: 'https://github.com/rodneyg' }
         },
         {
           name: 'mcp-hn',
