@@ -60,12 +60,15 @@
 - [HackerNewsWatch](https://github.com/wieslawsoltes/HackerNewsWatch) by [Wiesław Šoltés](https://github.com/wieslawsoltes)
 - [Hacki](https://github.com/Livinglist/Hacki) by [Jiaqi Feng](https://github.com/Livinglist)
 - [Hacko (formerly HackerNewt)](https://apps.apple.com/us/app/hacko-for-hacker-news/id6448201970) by [Andrii Sievrikov](https://github.com/devandsev)
+- [Kiosk](https://f-droid.org/en/packages/com.shapeshed.kiosk/) by [George Ornbo](https://github.com/shapeshed)
+- [LevelUp for Hacker News](https://sudofish.com/leveluphn/) by [Hemant Chaudhary](https://news.ycombinator.com/user?id=hassleblad23)
 
 ## Mobile Web
 
 - [hacker-news-digest](http://hackernews.betacat.io/) by [Poly Miao](https://github.com/polyrabbit/)
 - [HackerWeb](http://hackerwebapp.com/) by [Lim Chee Aun](https://github.com/cheeaun)
 - [hn.premii.com](http://hn.premii.com/) by [Dharmesh Patel](https://github.com/premii)
+- [Hnollo](https://hnollo.com/) by [craaaig](https://news.ycombinator.com/user?id=craaaig)
 
 ## Recommended on HN
 
@@ -115,9 +118,13 @@
 - [Better HN](https://bhn.pajecawav.dev) by [pajecawav](https://github.com/pajecawav)
 - [Brutalist Hacker News](https://brutalisthackernews.com) by [W. Kyle Graves](https://github.com/wkyleg)
 - [Full Hacker News](http://www.fullhn.com/) by [Maurice Svay](https://github.com/mauricesvay)
+- [Glance](https://glance-brown-one.vercel.app/) by [musayann](https://github.com/musayann)
+- [Hacker Column](https://hn.orbitalchicken.com/) by [y1n0](https://news.ycombinator.com/user?id=y1n0)
 - [Hacker News Daily](http://www.daemonology.net/hn-daily) by Colin Percival
 - [Hacker News Rankings](https://hnrankings.com/) by [Marc Neuwirth](https://github.com/marcneuwirth)
 - [Hacker News Time](https://hackernewstime.com/) by [MK2k](https://news.ycombinator.com/user?id=MK2k)
+- [Hacker Times](https://hackertimes.ca/) by [polpenn](https://news.ycombinator.com/user?id=polpenn)
+- [HackerFlow (web)](https://hn.vinceroyer.ca/) by [Vince Royer](https://news.ycombinator.com/user?id=vinistois)
 - [hcker.news](https://hcker.news/) by [postalcoder](https://news.ycombinator.com/user?id=postalcoder)
 - [hckrnews.com](http://hckrnews.com) by [Wayne Larsen](https://github.com/wvl)
 - [HN Glance](https://hnglance.com/top) by [valentinvieriu](https://news.ycombinator.com/user?id=valentinvieriu)
@@ -126,10 +133,12 @@
 - [hnhiring.com](http://hnhiring.com/) by [Jordi Noguera](https://github.com/jordinl)
 - [How Hacker News looked when you joined](http://bemmu.github.io/hncakeday/) by [Bemmu Sepponen](https://github.com/bemmu)
 - [Official Website](https://news.ycombinator.com)
+- [Qiaomu HN Reader](https://hn.qiaomu.ai/) by [Qiaomu](https://github.com/joeseesun)
 - [Random Hacker News](https://randomhackernews.com) by [Nick](https://nickipedia.dev/)
 - [React HN](http://insin.github.io/react-hn/) by [Jonny Buchanan](https://github.com/insin)
 - [serializer.io](https://serializer.io/) by [Charlie Egan](https://github.com/charlieegan3)
 - [The Front Page](https://thefrontpage.dev/) by [George Stagas](https://github.com/stagas)
+- [unslop.news](https://www.unslop.news/) by [otherayden](https://news.ycombinator.com/user?id=otherayden)
 
 ## 𝕏
 

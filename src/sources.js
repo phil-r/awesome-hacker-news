@@ -4,6 +4,39 @@ module.exports = {
       name: 'Web',
       items: [
         {
+          name: 'Hacker Times',
+          url: 'https://hackertimes.ca/',
+          author: { name: 'polpenn', url: 'https://news.ycombinator.com/user?id=polpenn' }
+        },
+        {
+          name: 'Hacker Column',
+          url: 'https://hn.orbitalchicken.com/',
+          author: { name: 'y1n0', url: 'https://news.ycombinator.com/user?id=y1n0' }
+        },
+        {
+          name: 'HackerFlow (web)',
+          url: 'https://hn.vinceroyer.ca/',
+          author: { name: 'Vince Royer', url: 'https://news.ycombinator.com/user?id=vinistois' }
+        },
+        {
+          name: 'Glance',
+          url: 'https://glance-brown-one.vercel.app/',
+          author: { name: 'musayann', url: 'https://github.com/musayann' },
+          source: { type: 'github', url: 'https://github.com/musayann/glance' }
+        },
+        {
+          name: 'unslop.news',
+          url: 'https://www.unslop.news/',
+          author: { name: 'otherayden', url: 'https://news.ycombinator.com/user?id=otherayden' },
+          source: { type: 'github', url: 'https://github.com/leiDnedyA/hn-without-ai' }
+        },
+        {
+          name: 'Qiaomu HN Reader',
+          url: 'https://hn.qiaomu.ai/',
+          author: { name: 'Qiaomu', url: 'https://github.com/joeseesun' },
+          source: { type: 'github', url: 'https://github.com/joeseesun/qiaomu-hn-reader' }
+        },
+        {
           name: 'Hacker News Time',
           url: 'https://hackernewstime.com/',
           author: { name: 'MK2k', url: 'https://news.ycombinator.com/user?id=MK2k' }
@@ -280,6 +313,11 @@ module.exports = {
       name: 'Mobile Web',
       items: [
         {
+          name: 'Hnollo',
+          url: 'https://hnollo.com/',
+          author: { name: 'craaaig', url: 'https://news.ycombinator.com/user?id=craaaig' }
+        },
+        {
           name: 'hn.premii.com',
           url: 'http://hn.premii.com/',
           author: { name: 'Dharmesh Patel', url: 'https://github.com/premii' }
@@ -528,6 +566,17 @@ module.exports = {
     {
       name: 'Mobile App',
       items: [
+        {
+          name: 'Kiosk',
+          url: 'https://f-droid.org/en/packages/com.shapeshed.kiosk/',
+          author: { name: 'George Ornbo', url: 'https://github.com/shapeshed' },
+          source: { type: 'github', url: 'https://github.com/shapeshed/kiosk' }
+        },
+        {
+          name: 'LevelUp for Hacker News',
+          url: 'https://sudofish.com/leveluphn/',
+          author: { name: 'Hemant Chaudhary', url: 'https://news.ycombinator.com/user?id=hassleblad23' }
+        },
         {
           name: 'Hacko (formerly HackerNewt)',
           url: 'https://apps.apple.com/us/app/hacko-for-hacker-news/id6448201970',
