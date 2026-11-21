@@ -4,6 +4,11 @@ module.exports = {
       name: 'Web',
       items: [
         {
+          name: 'HN Companion',
+          url: 'https://app.hncompanion.com/',
+          author: { name: 'George and Ann', url: 'https://news.ycombinator.com/item?id=42532374' }
+        },
+        {
           name: 'Hacker Times',
           url: 'https://hackertimes.ca/',
           author: { name: 'polpenn', url: 'https://news.ycombinator.com/user?id=polpenn' }
@@ -143,6 +148,38 @@ module.exports = {
     {
       name: 'Discovery and Analysis',
       items: [
+        {
+          name: 'HackerFriction',
+          url: 'https://hackerfriction.org/',
+          author: { name: 'capex', url: 'https://news.ycombinator.com/user?id=capex' }
+        },
+        {
+          name: 'HN Analytics',
+          url: 'https://hackernews-analytics.jerrysniffs.online/',
+          author: { name: 'freakynit', url: 'https://github.com/freakynit' },
+          source: { type: 'github', url: 'https://github.com/freakynit/hackernews-analytics' }
+        },
+        {
+          name: 'HN Timeline',
+          url: 'https://www.adriankrebs.ch/hn-timeline',
+          author: { name: 'Adrian Krebs', url: 'https://www.adriankrebs.ch/' }
+        },
+        {
+          name: 'HN Work',
+          url: 'https://hnwork.app/',
+          author: { name: 'scottilee', url: 'https://news.ycombinator.com/user?id=scottilee' }
+        },
+        {
+          name: 'HN Atlas',
+          url: 'https://hn-atlas.bensontech.dev/',
+          author: { name: 'informal007', url: 'https://news.ycombinator.com/user?id=informal007' },
+          source: { type: 'github', url: 'https://github.com/wa008/hn-atlas' }
+        },
+        {
+          name: 'HN DOCS',
+          url: 'https://hndocs.org/',
+          author: { name: 'lusob', url: 'https://news.ycombinator.com/user?id=lusob' }
+        },
         {
           name: 'Y Recombinator',
           url: 'https://yrecombinator.org/',
@@ -399,6 +436,21 @@ module.exports = {
           name: 'Bluesky Hacker News Bot',
           url: 'https://bsky.app/profile/hackernewsbot.bsky.social',
           author: { name: 'Yurii', url: 'https://bsky.app/profile/ykravchuk.bsky.social' }
+        },
+        {
+          name: '@newsyc500',
+          url: 'https://bsky.app/profile/newsyc500.bsky.social',
+          author: { name: 'Oiva Eskola', url: 'https://oivaeskola.fi/' }
+        },
+        {
+          name: '@newsyc750',
+          url: 'https://bsky.app/profile/newsyc750.bsky.social',
+          author: { name: 'Oiva Eskola', url: 'https://oivaeskola.fi/' }
+        },
+        {
+          name: '@newsyc1000',
+          url: 'https://bsky.app/profile/newsyc1000.bsky.social',
+          author: { name: 'Oiva Eskola', url: 'https://oivaeskola.fi/' }
         }
       ]
     },
@@ -411,6 +463,11 @@ module.exports = {
     {
       name: 'RSS',
       items: [
+        {
+          name: 'Hacker News RSS',
+          url: 'https://hackernewsrss.com/',
+          author: { name: 'twapi', url: 'https://news.ycombinator.com/user?id=twapi' }
+        },
         {
           name: 'hnapp.com',
           url: 'http://hnapp.com',
@@ -426,6 +483,11 @@ module.exports = {
     {
       name: 'Email',
       items: [
+        {
+          name: 'HNBrew',
+          url: 'https://hnbrew.com/',
+          author: { name: 'krystofbe', url: 'https://news.ycombinator.com/user?id=krystofbe' }
+        },
         {
           name: 'hackernewsletter.com',
           url: 'https://hackernewsletter.com/',

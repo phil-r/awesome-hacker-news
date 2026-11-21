@@ -8,6 +8,9 @@
 
 ## Bluesky
 
+- [@newsyc1000](https://bsky.app/profile/newsyc1000.bsky.social) by [Oiva Eskola](https://oivaeskola.fi/)
+- [@newsyc500](https://bsky.app/profile/newsyc500.bsky.social) by [Oiva Eskola](https://oivaeskola.fi/)
+- [@newsyc750](https://bsky.app/profile/newsyc750.bsky.social) by [Oiva Eskola](https://oivaeskola.fi/)
 - [Bluesky Hacker News Bot](https://bsky.app/profile/hackernewsbot.bsky.social) by [Yurii](https://bsky.app/profile/ykravchuk.bsky.social)
 
 ## Command Line
@@ -37,14 +40,21 @@
 - [Hacker Again](https://hackeragain.com/) by [yewenjie](https://news.ycombinator.com/user?id=yewenjie)
 - [Hacker Atlas](https://hackeratlas.com/) by [Andrea Ritossa](https://github.com/andrearitossa)
 - [Hacker News Trends](https://hackernewstrends.com/) by [ytkimirti](https://news.ycombinator.com/user?id=ytkimirti)
+- [HackerFriction](https://hackerfriction.org/) by [capex](https://news.ycombinator.com/user?id=capex)
+- [HN Analytics](https://hackernews-analytics.jerrysniffs.online/) by [freakynit](https://github.com/freakynit)
+- [HN Atlas](https://hn-atlas.bensontech.dev/) by [informal007](https://news.ycombinator.com/user?id=informal007)
+- [HN DOCS](https://hndocs.org/) by [lusob](https://news.ycombinator.com/user?id=lusob)
 - [HN Hall of Fame](https://www.orangecrumbs.com/hall/) by [oyster143](https://news.ycombinator.com/user?id=oyster143)
 - [HN Overlooked](https://pj4533.com/hn-overlooked/) by [PJ Gray](https://github.com/pj4533)
+- [HN Timeline](https://www.adriankrebs.ch/hn-timeline) by [Adrian Krebs](https://www.adriankrebs.ch/)
+- [HN Work](https://hnwork.app/) by [scottilee](https://news.ycombinator.com/user?id=scottilee)
 - [Y Recombinator](https://yrecombinator.org/) by [nightjar](https://news.ycombinator.com/user?id=nightjar)
 
 ## Email
 
 - [hackernewsletter.com](https://hackernewsletter.com/) by [Kale Davis](https://github.com/kale)
 - [HN Replies](http://www.hnreplies.com) by [Dan Grossman](https://github.com/dangrossman)
+- [HNBrew](https://hnbrew.com/) by [krystofbe](https://news.ycombinator.com/user?id=krystofbe)
 - [hndigest](http://hndigest.wordpress.com) by Julian Corlet
 - [hndigest.com](http://www.hndigest.com)
 
@@ -90,6 +100,7 @@
 
 ## RSS
 
+- [Hacker News RSS](https://hackernewsrss.com/) by [twapi](https://news.ycombinator.com/user?id=twapi)
 - [hnapp.com](http://hnapp.com) by [Nikita Gazarov](https://github.com/raquo)
 - [hnrss](https://hnrss.github.io/) by [Eric Davis](https://github.com/edavis)
 
@@ -127,6 +138,7 @@
 - [HackerFlow (web)](https://hn.vinceroyer.ca/) by [Vince Royer](https://news.ycombinator.com/user?id=vinistois)
 - [hcker.news](https://hcker.news/) by [postalcoder](https://news.ycombinator.com/user?id=postalcoder)
 - [hckrnews.com](http://hckrnews.com) by [Wayne Larsen](https://github.com/wvl)
+- [HN Companion](https://app.hncompanion.com/) by [George and Ann](https://news.ycombinator.com/item?id=42532374)
 - [HN Glance](https://hnglance.com/top) by [valentinvieriu](https://news.ycombinator.com/user?id=valentinvieriu)
 - [HN Watercooler](https://onetake-ai.github.io/hackernews-watercooler/) by [Sébastien Night](https://news.ycombinator.com/user?id=sebastiennight)
 - [HN.watch](https://hn.watch/) by [Per Borgen and the Scrimba team](https://news.ycombinator.com/user?id=mrborgen)
