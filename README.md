@@ -9,6 +9,8 @@
 ## Bluesky
 
 - [@newsyc1000](https://bsky.app/profile/newsyc1000.bsky.social) by [Oiva Eskola](https://oivaeskola.fi/)
+- [@newsyc200](https://bsky.app/profile/newsyc200.bsky.social) by [Oiva Eskola](https://oivaeskola.fi/)
+- [@newsyc250](https://bsky.app/profile/newsyc250.bsky.social) by [Oiva Eskola](https://oivaeskola.fi/)
 - [@newsyc500](https://bsky.app/profile/newsyc500.bsky.social) by [Oiva Eskola](https://oivaeskola.fi/)
 - [@newsyc750](https://bsky.app/profile/newsyc750.bsky.social) by [Oiva Eskola](https://oivaeskola.fi/)
 - [Bluesky Hacker News Bot](https://bsky.app/profile/hackernewsbot.bsky.social) by [Yurii](https://bsky.app/profile/ykravchuk.bsky.social)
@@ -55,7 +57,6 @@
 - [hackernewsletter.com](https://hackernewsletter.com/) by [Kale Davis](https://github.com/kale)
 - [HN Replies](http://www.hnreplies.com) by [Dan Grossman](https://github.com/dangrossman)
 - [HNBrew](https://hnbrew.com/) by [krystofbe](https://news.ycombinator.com/user?id=krystofbe)
-- [hndigest](http://hndigest.wordpress.com) by Julian Corlet
 - [hndigest.com](http://www.hndigest.com)
 
 ## Gopher

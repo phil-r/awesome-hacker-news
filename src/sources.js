@@ -438,6 +438,16 @@ module.exports = {
           author: { name: 'Yurii', url: 'https://bsky.app/profile/ykravchuk.bsky.social' }
         },
         {
+          name: '@newsyc200',
+          url: 'https://bsky.app/profile/newsyc200.bsky.social',
+          author: { name: 'Oiva Eskola', url: 'https://oivaeskola.fi/' }
+        },
+        {
+          name: '@newsyc250',
+          url: 'https://bsky.app/profile/newsyc250.bsky.social',
+          author: { name: 'Oiva Eskola', url: 'https://oivaeskola.fi/' }
+        },
+        {
           name: '@newsyc500',
           url: 'https://bsky.app/profile/newsyc500.bsky.social',
           author: { name: 'Oiva Eskola', url: 'https://oivaeskola.fi/' }
@@ -492,11 +502,6 @@ module.exports = {
           name: 'hackernewsletter.com',
           url: 'https://hackernewsletter.com/',
           author: { name: 'Kale Davis', url: 'https://github.com/kale' }
-        },
-        {
-          name: 'hndigest',
-          url: 'http://hndigest.wordpress.com',
-          author: { name: 'Julian Corlet' }
         },
         { name: 'hndigest.com', url: 'http://www.hndigest.com' },
         {
@@ -701,6 +706,11 @@ module.exports = {
           url: 'http://www.hackersdaily.com',
           author: { name: 'Mike Singer' }
         }, {
+          name: 'hndigest',
+          url: 'https://hndigest.wordpress.com/',
+          author: { name: 'Julian Corlet' },
+          reason: 'site still advertises a 2013 trial and its RSS feed has no issues (checked Nov 21, 2026)'
+        }, {
           name: 'hnnotify.com',
           url: 'http://hnnotify.com',
           author: { name: 'The Buzz Media' }
@@ -726,8 +736,6 @@ module.exports = {
       name: '𝕏',
       items: [
         { name: '@newsycombinator', url: 'https://x.com/newsycombinator', reason: 'no posts since Jun 23, 2023' },
-        { name: '@newsyc200', url: 'https://x.com/newsyc200', reason: 'lost Twitter API access in June 2023' },
-        { name: '@newsyc250', url: 'https://x.com/newsyc250', reason: 'lost Twitter API access in June 2023' },
         { name: '@JustShowHN', url: 'https://x.com/JustShowHN', reason: 'suspended' },
         { name: '@newsyc20', url: 'https://x.com/newsyc20', reason: 'suspended' },
         { name: '@newsyc50', url: 'https://x.com/newsyc50', reason: 'suspended' },
